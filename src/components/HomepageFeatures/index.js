@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/code_star.svg').default,
     description: (
       <>
-        发现错误？现在您仅需了解Markdown的语法您就可以帮助我们修正文档！
+        发现错误?仅需了解Markdown的语法您就可以帮助我们修正文档！
       </>
     ),
   },
