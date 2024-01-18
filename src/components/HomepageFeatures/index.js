@@ -21,6 +21,7 @@ const FeatureList = [
       </>
     ),
   },
+
 ];
 
 function Feature({Svg, title, description}) {

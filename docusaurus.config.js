@@ -79,11 +79,7 @@ const config = {
             title: '服务',
             items: [
               {
-                label: '博客系统',
-                to: 'https://cocomoe.cn/docs/service',
-              },
-              {
-                label: 'Status',
+                label: 'Coco巡查姬',
                 to: 'https://status.cocomoe.cn',
               },
             ],
@@ -91,10 +87,7 @@ const config = {
           {
             title: '友情链接',
             items: [
-              {
-                label: 'Xinyuu的自由天空',
-                to: 'https://xinyuu.cocomoe.cn',
-              },
+              
             ],
           },
           {
@@ -106,6 +99,25 @@ const config = {
               },
             
             ],
+            
+            
+          },
+          {
+            title: '文档许可',
+            items: [
+              {
+                label: 'Creativecommons',
+                to: 'https://creativecommons.org/'
+
+              },
+              {
+                label: '署名-非商业性-相同方式共享',
+                to: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+              },
+            
+            ],
+            
+            
           },
           {
             
