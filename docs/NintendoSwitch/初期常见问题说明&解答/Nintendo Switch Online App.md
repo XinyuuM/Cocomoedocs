@@ -1,6 +1,7 @@
 ---
 id: app
 title: Nintendo Switch Online App
+sidebar_position: 4
 ---
 在此处可以下载可用的Nintendo Switch Online手机客户端。
 

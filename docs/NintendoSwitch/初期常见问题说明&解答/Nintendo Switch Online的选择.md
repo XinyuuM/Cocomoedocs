@@ -1,6 +1,7 @@
 ---
 id: nso
 title: Nintendo Switch Online的选择
+sidebar_position: 2
 ---
 **Nintendo Switch Online 在不同地区的定价策略各不相同，这里以港服普通NSO会员为例：**
 

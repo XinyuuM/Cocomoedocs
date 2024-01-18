@@ -1,6 +1,7 @@
 ---
 id: eshop-and-account
 title: Eshop与NintendoAccount
+sidebar_position: 5
 ---
 <u>**Eshop购买数字版游戏的商店，您登陆的商店语言与您账号的归属地相关**</u>
 
