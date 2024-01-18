@@ -30,7 +30,7 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'cn',
+    defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
   },
 
@@ -85,23 +85,15 @@ const config = {
             ],
           },
           {
-            title: '友情链接',
-            items: [
-              
-            ],
-          },
-          {
-            title: '备案信息',
+            title: '联系方式',
             items: [
               {
-                label: '萌ICP备20242444号',
-                to: 'https://icp.gov.moe/?keyword=20242444',
-              },
-            
+                label: '电子邮箱',
+                to: 'mailto:webmaster@cocomoe.cn'
+              }
             ],
-            
-            
           },
+          
           {
             title: '文档许可',
             items: [
@@ -112,7 +104,19 @@ const config = {
               },
               {
                 label: '署名-非商业性-相同方式共享',
-                to: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
+                to: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
+              },
+            
+            ],
+            
+            
+          },
+          {
+            title: '备案信息',
+            items: [
+              {
+                label: '萌ICP备20242444号',
+                to: 'https://icp.gov.moe/?keyword=20242444',
               },
             
             ],
