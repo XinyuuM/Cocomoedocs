@@ -49,7 +49,12 @@ const config = {
           editUrl:
             'https://github.com/XinyuuM/Cocomoedocs/tree/master/',
         },
-        blog:false ,
+        blog: {
+          showReadingTime: true,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+         
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -64,13 +69,20 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '可可萌 文档中心',
+        title: '可可萌',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
-          
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: '文档库',
+          },
+          {to: '/blog', label: '博客', position: 'left'},
+         
         ],
       },
       footer: {
@@ -81,7 +93,7 @@ const config = {
             items: [
               {
                 label: 'Coco巡查姬',
-                to: 'https://status.cocomoe.cn',
+                href: 'https://status.cocomoe.cn',
               },
             ],
           },
@@ -100,12 +112,12 @@ const config = {
             items: [
               {
                 label: 'Creativecommons',
-                to: 'https://creativecommons.org/'
+                href: 'https://creativecommons.org/'
 
               },
               {
                 label: '署名-非商业性-相同方式共享',
-                to: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
+                href: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
               },
 
 
@@ -119,7 +131,7 @@ const config = {
             items: [
               {
                 label: '萌ICP备20242444号',
-                to: 'https://icp.gov.moe/?keyword=20242444',
+                href: 'https://icp.gov.moe/?keyword=20242444',
               },
             
             ],
