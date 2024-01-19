@@ -70,7 +70,7 @@ const config = {
             href: 'https://nintendoswitch-docs.cocomoe.cn/docs/intro',
             label: 'NintendoSwitchDocs',
           },
-          {to: '/blog', label: '博客', position: 'left'},
+          {to: 'https://cocomoe.cn/', label: '博客', position: 'left'},
          
         ],
       },
