@@ -7,7 +7,7 @@ tags: [铃芽之旅,看！世界]
 
 ***欢迎来到COCOMOE BLOG，这是一篇博文示例。***
 
-![](https://static.xinyuu.info/static/lyzl-2.jpg)
+![](lyzl-2.jpg)
 
 > 怀抱着椅子的少女、青年的背影、门。在前面等着我们的，是如梦似幻的景象。
 
@@ -18,4 +18,4 @@ tags: [铃芽之旅,看！世界]
 ### 正文
 
 非常高兴，拿到了《铃芽之旅》首映特典^^
-![](https://static.xinyuu.info/static/lyzl-3.jpg)
+![](lyzl-3.jpg)
