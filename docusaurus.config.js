@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '〃•ω‹〃',
+  title: '可可萌〃•ω‹〃',
   tagline:'万物皆「可萌」(⑅˃◡˂⑅)',
   favicon: 'img/favicon.ico',
 
@@ -39,21 +39,11 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          routeBasePath: '/docs/',
-          sidebarPath: './sidebars.js',
-          
-          
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/XinyuuM/Cocomoedocs/tree/master/',
-        },
+        docs: false,
         blog: {
-          showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-         
+          routeBasePath: '/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -76,10 +66,9 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: '文档库',
+            href: 'https://nintendoswitch-docs.cocomoe.cn/docs/intro',
+            label: 'NintendoSwitchDocs',
           },
           {to: '/blog', label: '博客', position: 'left'},
          
