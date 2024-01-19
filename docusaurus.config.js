@@ -67,10 +67,10 @@ const config = {
         items: [
           {
             position: 'left',
-            href: 'https://nintendoswitch-docs.cocomoe.cn/docs/intro',
+            href: 'https://nintendoswitch-docs.cocomoe.cn/',
             label: 'NintendoSwitchDocs',
           },
-          {to: 'https://cocomoe.cn/', label: '博客', position: 'left'},
+          
          
         ],
       },
@@ -122,6 +122,15 @@ const config = {
                 label: '萌ICP备20242444号',
                 href: 'https://icp.gov.moe/?keyword=20242444',
               },
+            
+            ],
+            
+            
+          },
+          {
+            title: '友情链接',
+            items: [
+              
             
             ],
             
