@@ -145,7 +145,7 @@ const config = {
             
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cocomoe All rights reserved.`,
+        copyright: `本网站使用免费开源的 Docusaurus 程序制作。网站所涉及的公司名称、商标、产品等均为其各自所有者的资产，仅供识别。`,
       },
       prism: {
         theme: prismThemes.github,
