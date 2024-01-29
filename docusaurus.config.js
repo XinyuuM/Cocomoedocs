@@ -70,6 +70,11 @@ const config = {
             href: 'https://nintendoswitch-docs.cocomoe.cn/',
             label: 'NintendoSwitchDocs',
           },
+          {
+            position: 'left',
+            href: 'https://hcia.cocomoe.cn/',
+            label: 'HCIALab',
+          },
           
          
         ],
@@ -162,8 +167,8 @@ const config = {
   
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
         replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
+          from: '', // or as RegExp: /\/docs\//
+          to: '',
         },
   
         // Optional: Algolia search parameters
