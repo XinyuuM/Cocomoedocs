@@ -75,9 +75,8 @@ const config = {
             href: 'https://hcia.cocomoe.cn/',
             label: 'HCIALab',
           },
-          
-         
         ],
+        
       },
       footer: {
         style: 'dark',
@@ -151,33 +150,6 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-      },
-      algolia: {
-        // The application ID provided by Algolia
-        appId: 'PCYCO9TUAS',
-  
-        // Public API key: it is safe to commit it
-        apiKey: 'b6e8b7a23df2bdf1e0ebee764d14176f',
-  
-        indexName: 'cocomoecn',
-  
-        // Optional: see doc section below
-        contextualSearch: true,
-  
-  
-        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '', // or as RegExp: /\/docs\//
-          to: '',
-        },
-  
-        // Optional: Algolia search parameters
-        searchParameters: {},
-  
-        // Optional: path for search page that enabled by default (`false` to disable it)
-        searchPagePath: 'search',
-  
-        //... other Algolia params
       },
     }),
 };
