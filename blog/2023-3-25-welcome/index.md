@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: 欢迎
-authors: [xinyuu]
+authors: [xinyuu,jianlang]
 tags: [铃芽之旅,看！世界]
 ---
 
