@@ -85,20 +85,12 @@ const config = {
             title: '服务',
             items: [
               {
-                label: 'Coco巡查姬',
-                href: 'https://status.cocomoe.cn',
+                label: '收支一览',
+                href: '/blackboard/topic/tp233',
               },
             ],
           },
-          {
-            title: '联系方式',
-            items: [
-              {
-                label: '电子邮箱',
-                to: 'mailto:webmaster@cocomoe.cn'
-              }
-            ],
-          },
+        
           
           {
             title: '文档许可',
@@ -132,9 +124,12 @@ const config = {
             
           },
           {
-            title: '友情链接',
+            title: '镜像服务',
             items: [
-              
+              {
+                label: 'P5预告信生成器',
+                href: 'https://p5.cocomoe.cn',
+              },
             
             ],
             
