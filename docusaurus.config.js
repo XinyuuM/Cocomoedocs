@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://cocomoe.cn',
+  url: 'https://www.cocomoe.cn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -44,6 +44,8 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           routeBasePath: '/',
+          postsPerPage: 4,
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -82,7 +84,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '服务',
+            title: '文档',
             items: [
               {
                 label: '收支一览',
