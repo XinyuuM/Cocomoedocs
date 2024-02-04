@@ -69,7 +69,7 @@ const config = {
         items: [
           {
             position: 'left',
-            href: 'https://nintendoswitch-docs.cocomoe.cn/',
+            href: '/blackboard/topic/tp235',
             label: 'NintendoSwitchDocs',
           },
           {
