@@ -17,7 +17,6 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'XinyuuM', // Usually your GitHub org/user name.
@@ -43,7 +42,7 @@ const config = {
         blog: {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          routeBasePath: '/',
+          
           postsPerPage: 4,
           blogSidebarCount: 'ALL',
         },
