@@ -124,11 +124,23 @@ const config = {
           },
           
           {
-            title: '镜像服务',
+            title: '牛至哥的裤衩子',
             items: [
               {
                 label: 'P5预告信生成器',
                 href: 'https://p5.cocomoe.cn',
+              },
+              {
+                label: 'Easy CSS Gradient Generator Tool',
+                href: 'https://www.learnui.design/tools/gradient-generator.html',
+              },
+              {
+                label: '盾牌io',
+                href: 'https://shields.io',
+              },
+              {
+                label: '飞鸟云',
+                href: 'https://feiniaoyun01.com/',
               },
             
             ],
