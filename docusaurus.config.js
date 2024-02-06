@@ -124,7 +124,7 @@ const config = {
           },
           
           {
-            title: '牛至的裤衩',
+            title: '可可的裤衩',
             items: [
               {
                 label: 'P5预告信生成器',
@@ -164,7 +164,7 @@ const config = {
             
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Cocomoe All rights reserved.`,
+        copyright: `Copyright © 2021-${new Date().getFullYear()} Cocomoe All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
