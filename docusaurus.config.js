@@ -90,6 +90,10 @@ const config = {
                 href: '/blackboard/topic/tp233',
               },
               {
+                label: '说明汇总',
+                href: '/blackboard'
+              },
+              {
                 label: '留言箱',
                 href: 'https://www.wjx.cn/vm/OhIxqSE.aspx'
               },
