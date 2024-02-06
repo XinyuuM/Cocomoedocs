@@ -100,11 +100,35 @@ const config = {
             ],
           },
           {
-            title: '备案信息',
+            title: '社交',
             items: [
               {
-                label: '萌ICP备20242444号',
-                href: 'https://icp.gov.moe/?keyword=20242444',
+                label: '哔哩哔哩',
+                href: 'https://space.bilibili.com/142202292/',
+              },
+              {
+                label: 'Steamcommunity',
+                href: 'https://steamcommunity.com/id/xinyuu/',
+              },
+              {
+                label: '网易云音乐',
+                href: 'https://music.163.com/#/user/home?id=594434593',
+              },
+              {
+                label: '知乎',
+                href: 'https://www.zhihu.com/people/xinyuu-nasa/',
+              },
+            ],
+            
+            
+          },
+          
+          {
+            title: '镜像服务',
+            items: [
+              {
+                label: 'P5预告信生成器',
+                href: 'https://p5.cocomoe.cn',
               },
             
             ],
@@ -112,11 +136,11 @@ const config = {
             
           },
           {
-            title: '镜像服务',
+            title: '备案信息',
             items: [
               {
-                label: 'P5预告信生成器',
-                href: 'https://p5.cocomoe.cn',
+                label: '萌ICP备20242444号',
+                href: 'https://icp.gov.moe/?keyword=20242444',
               },
             
             ],
