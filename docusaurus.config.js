@@ -89,28 +89,11 @@ const config = {
                 label: '收支一览',
                 href: '/blackboard/topic/tp233',
               },
-            ],
-          },
-        
-          
-          {
-            title: '文档许可',
-            items: [
               {
-                label: 'Creativecommons',
-                href: 'https://creativecommons.org/'
-
+                label: '留言箱',
+                href: 'https://www.wjx.cn/vm/OhIxqSE.aspx'
               },
-              {
-                label: '署名-非商业性-相同方式共享',
-                href: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
-              },
-
-
-            
             ],
-            
-            
           },
           {
             title: '备案信息',
@@ -141,7 +124,7 @@ const config = {
             
           },
         ],
-        copyright: `本网站使用免费开源的 Docusaurus 程序制作。网站所涉及的公司名称、商标、产品等均为其各自所有者的资产，仅供识别。`,
+        copyright: `Copyright © ${new Date().getFullYear()} Cocomoe All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,
