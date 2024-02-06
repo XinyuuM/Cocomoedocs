@@ -124,14 +124,14 @@ const config = {
           },
           
           {
-            title: '牛至哥的裤衩子',
+            title: '牛至的裤衩',
             items: [
               {
                 label: 'P5预告信生成器',
                 href: 'https://p5.cocomoe.cn',
               },
               {
-                label: 'Easy CSS Gradient Generator Tool',
+                label: 'Gradient Generator',
                 href: 'https://www.learnui.design/tools/gradient-generator.html',
               },
               {
