@@ -1,4 +1,4 @@
-// @ts-check
+  // @ts-check
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
@@ -66,11 +66,6 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
-            position: 'left',
-            href: '/blackboard/topic/tp235',
-            label: 'NintendoSwitchDocs',
-          },
           {
             position: 'left',
             href: 'https://hcia.cocomoe.cn/',
@@ -151,8 +146,8 @@ const config = {
             title: '备案信息',
             items: [
               {
-                label: '萌ICP备20242444号',
-                href: 'https://icp.gov.moe/?keyword=20242444',
+                label: '萌ICP备20249960号',
+                href: 'https://icp.gov.moe/?keyword=20249960',
               },
             
             ],
