@@ -12,6 +12,8 @@
 
 在这里，让我们分享知识、分享生活、分享快乐，共同成长！
 
+> 一起来探索新知，会玩才会学。---oeasy
+
 博客入口在[这里](/blog)​。​
 
 :drooling_face:关注[小菲](https://space.bilibili.com/1265680561)喵，关注[小菲](https://space.bilibili.com/1265680561)谢谢喵:drooling_face:

@@ -89,9 +89,14 @@ const config = {
                 href: '/blackboard'
               },
               {
+                label: '黑名荣誉榜',
+                href: '/blackboard/blacklist'
+              },
+              {
                 label: '留言箱',
                 href: 'https://www.wjx.cn/vm/OhIxqSE.aspx'
               },
+
             ],
           },
           {
@@ -106,13 +111,18 @@ const config = {
                 href: 'https://steamcommunity.com/id/xinyuu/',
               },
               {
-                label: '网易云音乐',
+                label: '云音乐',
                 href: 'https://music.163.com/#/user/home?id=594434593',
               },
               {
                 label: '知乎',
                 href: 'https://www.zhihu.com/people/xinyuu-nasa/',
               },
+              {
+                label: '明信片',
+                href: '/blackboard/xinyuu/post/',
+              },
+              
             ],
             
             
@@ -136,6 +146,22 @@ const config = {
               {
                 label: '飞鸟云',
                 href: 'https://feiniaoyun01.com/',
+              },
+              {
+                label: '火星联盟',
+                href: 'https://hxlm.org/',
+              },
+              {
+                label: 'OpenAI',
+                href: 'https://openai.com/',
+              },
+              {
+                label: 'Github',
+                href: 'https://github.com/',
+              },
+              {
+                label: 'Cloudflare',
+                href: 'https://dash.cloudflare.com/',
               },
             
             ],
