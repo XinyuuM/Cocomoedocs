@@ -2,7 +2,7 @@
 slug: welcome
 title: 欢迎
 authors: [xinyuu,jianlang]
-tags: [铃芽之旅,看！世界]
+tags: [看！世界,广州]
 ---
 
 ***欢迎来到COCOMOE BLOG，这是一篇博文示例。***

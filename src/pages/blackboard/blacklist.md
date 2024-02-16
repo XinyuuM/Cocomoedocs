@@ -20,12 +20,13 @@ title: 社交黑名荣誉榜
 
 **什么样的人有资格进入黑名荣誉榜？**
 
-1. 您或您的朋友试图通过我公开的个人信息开展**恶意**的**威胁**行为。
-2. 您或您的朋友试图向我开展**性质恶劣**的**人身攻击**行为。
+1. 试图通过我公开的个人信息开展**恶意**的**威胁**行为。
+2. 试图向我开展**性质恶劣**的**人身攻击**行为。
+3. 经历足够**逆天**
 
 **我可以进入黑名荣誉榜吗？**
 
-当然可以。只要您符合以上条件，就可以进入荣誉榜。
+当然可以。只要您同时满足以上三个条件，就可以进入荣誉榜。
 
 **可以把我从黑名荣誉榜中抹除吗**？
 
@@ -56,6 +57,9 @@ title: 社交黑名荣誉榜
 > **社交状态**：
 >
 > b站UID：[1266732973](https://space.bilibili.com/1266732973)（近期活跃✅/对外关闭展示）
+>
+> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1266732973%26jsonp%3Djsonp&query=%24.data.follower&logo=bilibili&label=following&color=%2300ccff)
+> ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1266732973%26jsonp%3Djsonp&query=%24.data.following&logo=bilibili&label=follower&color=%2300ccff)
 >
 > 云音乐UID：[3996262616](https://y.music.163.com/m/user?id=3996262616) (已跑路)
 >

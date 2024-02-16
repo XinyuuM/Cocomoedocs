@@ -118,10 +118,6 @@ const config = {
                 label: '知乎',
                 href: 'https://www.zhihu.com/people/xinyuu-nasa/',
               },
-              {
-                label: '明信片',
-                href: '/blackboard/xinyuu/post/',
-              },
               
             ],
             
