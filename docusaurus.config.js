@@ -118,6 +118,10 @@ const config = {
                 label: '知乎',
                 href: 'https://www.zhihu.com/people/xinyuu-nasa/',
               },
+              {
+                label: '500px',
+                href: 'https://500px.com.cn/atxinyu',
+              },
               
             ],
             
