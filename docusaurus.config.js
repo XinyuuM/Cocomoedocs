@@ -62,7 +62,7 @@ const config = {
       navbar: {
         title: '可可萌',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Moe！',
           src: 'img/logo.svg',
         },
         items: [
@@ -119,7 +119,7 @@ const config = {
                 href: 'https://www.zhihu.com/people/xinyuu-nasa/',
               },
               {
-                label: '500px',
+                label: '500px摄影社区',
                 href: 'https://500px.com.cn/atxinyu',
               },
               
