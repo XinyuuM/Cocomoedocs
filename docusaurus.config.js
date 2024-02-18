@@ -71,7 +71,13 @@ const config = {
             href: 'https://hcia.cocomoe.cn/',
             label: 'HCIALab',
           },
+          {
+            position: 'left',
+            href: 'https://ns.cocomoe.cn/',
+            label: 'Switch Document',
+          },
         ],
+        
         
       },
       footer: {
@@ -102,27 +108,33 @@ const config = {
           {
             title: '社交',
             items: [
+             
+
+              
               {
-                label: '哔哩哔哩',
-                href: 'https://space.bilibili.com/142202292/',
-              },
-              {
-                label: 'Steamcommunity',
-                href: 'https://steamcommunity.com/id/xinyuu/',
+                label: '知乎',
+                href: 'https://www.zhihu.com/people/xinyuu-nasa/',
               },
               {
                 label: '云音乐',
                 href: 'https://music.163.com/#/user/home?id=594434593',
               },
               {
-                label: '知乎',
-                href: 'https://www.zhihu.com/people/xinyuu-nasa/',
+                label: '小红书',
+                href: 'https://www.xiaohongshu.com/user/profile/628722af0000000021028d5e',
+              },
+              {
+                label: '哔哩哔哩',
+                href: 'https://space.bilibili.com/142202292/',
               },
               {
                 label: '500px摄影社区',
-                href: 'https://500px.com.cn/atxinyu',
+                href: 'https://500px.com.cn/atxinyuu',
               },
-              
+              {
+                label: 'Steamcommunity',
+                href: 'https://steamcommunity.com/id/xinyuu/',
+              },
             ],
             
             
@@ -134,14 +146,6 @@ const config = {
               {
                 label: 'P5预告信生成器',
                 href: 'https://p5.cocomoe.cn',
-              },
-              {
-                label: 'Gradient Generator',
-                href: 'https://www.learnui.design/tools/gradient-generator.html',
-              },
-              {
-                label: '盾牌io',
-                href: 'https://shields.io',
               },
               {
                 label: '飞鸟云',
