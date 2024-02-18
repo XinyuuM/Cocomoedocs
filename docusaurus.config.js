@@ -87,21 +87,18 @@ const config = {
             title: '文档',
             items: [
               {
-                label: '收支一览',
-                href: '/blackboard/topic/tp233',
+                label: '留言箱',
+                href: 'https://kiku.page/xinyuu'
               },
               {
-                label: '文档汇总',
-                href: '/blackboard'
+                label: '收支一览',
+                href: '/blackboard/topic/tp233',
               },
               {
                 label: '黑名荣誉榜',
                 href: '/blackboard/blacklist'
               },
-              {
-                label: '留言箱',
-                href: 'https://kiku.page/xinyuu'
-              },
+              
 
             ],
           },
