@@ -144,27 +144,6 @@ const config = {
                 label: 'P5预告信生成器',
                 href: 'https://p5.cocomoe.cn',
               },
-              {
-                label: '飞鸟云',
-                href: 'https://feiniaoyun01.com/',
-              },
-              {
-                label: '火星联盟',
-                href: 'https://hxlm.org/',
-              },
-              {
-                label: 'OpenAI',
-                href: 'https://openai.com/',
-              },
-              {
-                label: 'Github',
-                href: 'https://github.com/',
-              },
-              {
-                label: 'Cloudflare',
-                href: 'https://dash.cloudflare.com/',
-              },
-            
             ],
             
             
