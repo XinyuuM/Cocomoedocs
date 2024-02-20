@@ -1,13 +1,22 @@
 ---
 slug: zelda-postcard
 title: 自制塞尔达联名明信片
+authors: [xinyuu]
 ---
 
-## 获取资源
+![](https://static.cocomoe.cn/static/cocomoe/2024-2-19-zeldapostcard-main.webp)
 
-**明信片文件**（docx格式，可自行修改编辑）：https://kdocs.cn/l/coh6JJotSAM7
+**明信片文件**：
 
-**纸张大小**：10x15cm 4‘’x6‘’  标准明信片  
+PDF:https://kdocs.cn/l/coh6JJotSAM7 
+
+DOCX:https://kdocs.cn/l/cpc7Qi4oIgwN
+
+
+
+**纸张大小**：
+
+10x15cm 4‘’x6‘’  标准明信片  
 
 **使用到的字体**：
 
@@ -15,7 +24,9 @@ title: 自制塞尔达联名明信片
 - Bahnschrift Light SemiCondensed
 - 方正小标宋简体
 
-**林克印章**：淘宝-猫孩子品牌印章店-[定制照片锤头鲨御御症啃泥帝林克维吉尔人像宠物表情包图案印章](https://item.taobao.com/item.htm?id=692697970874)
+**林克中指印章**：
+
+【猫孩子品牌印章店】[定制照片锤头鲨御御症啃泥帝林克维吉尔人像宠物表情包图案印章](https://item.taobao.com/item.htm?id=692697970874)
 
 thanks.🙂
 
