@@ -103,7 +103,7 @@ const config = {
             ],
           },
           {
-            title: '社交',
+            title: '社交网络',
             items: [
              
 
@@ -111,6 +111,10 @@ const config = {
               {
                 label: '知乎',
                 href: 'https://www.zhihu.com/people/xinyuu-nasa/',
+              },
+              {
+                label: '抖音',
+                href: 'https://www.douyin.com/user/MS4wLjABAAAAN40QZcypOO-l_SD0JE24I0JFAz4nJOArhdVd9C_Qh9A'
               },
               {
                 label: '云音乐',
@@ -141,6 +145,10 @@ const config = {
             title: '可可的裤衩',
             items: [
               {
+                label: '林克Gamer',
+                to: '/blackboard/topic/tp235',
+              },
+              {
                 label: 'P5预告信生成器',
                 href: 'https://p5.cocomoe.cn',
               },
@@ -165,7 +173,7 @@ const config = {
             
           },
         ],
-        copyright: `Copyright © 2021-${new Date().getFullYear()} Cocomoe All rights reserved.`,
+        copyright: `© ${new Date().getFullYear()} cocomoe.cn | 让热爱 更可爱 :)`,
       },
       prism: {
         theme: prismThemes.github,

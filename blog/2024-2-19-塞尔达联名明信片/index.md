@@ -1,6 +1,7 @@
 ---
 slug: zelda-postcard
 title: 自制塞尔达联名明信片
+tags: [塞尔达传说,明信片]
 authors: [xinyuu]
 ---
 
@@ -16,7 +17,7 @@ DOCX:https://kdocs.cn/l/cpc7Qi4oIgwN
 
 **纸张大小**：
 
-10x15cm 4‘’x6‘’  标准明信片  
+10x15cm 4’x6’  标准明信片  
 
 **使用到的字体**：
 
