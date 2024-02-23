@@ -76,6 +76,11 @@ const config = {
             href: 'https://ns.cocomoe.cn/',
             label: 'Switch Document',
           },
+          {
+            position: 'right',
+            to: '/love',
+            label: '❤️Our Story',
+          },
         ],
         
         
@@ -98,7 +103,6 @@ const config = {
                 label: '黑名荣誉榜',
                 href: '/blackboard/blacklist'
               },
-              
 
             ],
           },
