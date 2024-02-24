@@ -67,16 +67,6 @@ const config = {
         },
         items: [
           {
-            position: 'right',
-            href: 'https://hcia.cocomoe.cn/',
-            label: 'HCIALab',
-          },
-          {
-            position: 'right',
-            href: 'https://ns.cocomoe.cn/',
-            label: 'Switch Document',
-          },
-          {
             position: 'left',
             to: '/love',
             label: '❤️ Our Story',
@@ -85,6 +75,16 @@ const config = {
             position: 'left',
             to: '/blog',
             label: '📚 Blog',
+          },
+          {
+            position: 'right',
+            href: 'https://hcia.cocomoe.cn/',
+            label: 'HCIALab',
+          },
+          {
+            position: 'right',
+            href: 'https://ns.cocomoe.cn/',
+            label: 'Switch Document',
           },
         ],
         
