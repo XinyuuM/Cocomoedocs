@@ -1,4 +1,6 @@
+import Tabs from '@theme/Tabs';
 
+import TabItem from '@theme/TabItem';
 
 <div style={{textAlign: 'center'}}>
 ![](/img/link-index.webp)
@@ -10,7 +12,32 @@
 
 在这里，让我们分享知识、分享生活、分享快乐，共同成长！
 
-博客入口在[这里](/blog)​。​
+博客入口在[这里](/blog)​。
+
+<div style={{textAlign: 'left'}}>
+:::tip[与我取得联系，即代表您知晓并同意《[针对好友信息处理方式的说明](/blackboard/xinyuu/about-privacy/)》]
+
+<Tabs>
+  <TabItem value="apple" label="电子邮箱">
+  投诉、建议、咨询、反馈请发送邮件到：hi@cocomoe.cn 
+
+  </TabItem>
+  <TabItem value="orange" label="微信">
+  PY交易：`XinyuuArts`
+  </TabItem>
+  <TabItem value="banana" label="业余无线电">
+  ```
+  区域：Dongguan,Guangdong,China
+呼号：-------（隐藏）
+守听：438.500MHz、425.000MHz
+时间：19:00-20:00(工作日) 10:00-20:00（法定节假日）
+```
+  </TabItem>
+</Tabs>
+
+:::
+
+</div>
 
 :drooling_face:关注[小菲](https://space.bilibili.com/1265680561)喵，关注[小菲](https://space.bilibili.com/1265680561)谢谢喵:drooling_face:
 

@@ -106,7 +106,7 @@ const config = {
               },
               {
                 label: '黑名荣誉榜',
-                href: '/blackboard/blacklist'
+                to: '/blackboard/blacklist'
               },
 
             ],

@@ -6,7 +6,7 @@
 
 1️⃣
 
-**For** `Pan wei` `Zhao Panwei` `Zhang Mengning` `Zhang Zining`
+**For** `Pan Wei` `Zhao Panwei` `Zhang Mengning` `Zhang Zining`
 
 你们是我最初的陪伴者。
 
@@ -18,7 +18,7 @@
 
 2️⃣
 
-**For** `Li Quanda` `Xie Changke` 
+**For** `Li Quanda` `Xie Changke` `Deng Yifan`
 
 我们一同迎接青春的到来。
 
