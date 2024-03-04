@@ -78,8 +78,8 @@ const config = {
           },
           {
             position: 'right',
-            href: 'https://hcia.cocomoe.cn/',
-            label: 'HCIALab',
+            href: 'https://ddn.org.cn/',
+            label: 'Datacom Developer Network',
           },
           {
             position: 'right',
@@ -107,6 +107,10 @@ const config = {
               {
                 label: '黑名荣誉榜',
                 to: '/blackboard/blacklist'
+              },
+              {
+                label: '给广告主的信息',
+                href: 'https://www.cocomoe.cn/ir/',
               },
 
             ],
