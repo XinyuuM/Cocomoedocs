@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: 欢迎
-authors: [xinyuu,jianlang,bojun]
+authors: [xinyuu,jianlang]
 tags: [看！世界,广州]
 ---
 

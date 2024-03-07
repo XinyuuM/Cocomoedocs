@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 在这里，让我们分享知识、分享生活、分享快乐，共同成长！
 
-博客入口在[**这里**](/blog)​。
+博客入口在[**这里**](/blog)​。(使用[RSS订阅](/blackboard/rss/)博文)
 
 <div style={{textAlign: 'left'}}>
 :::note[与我取得联系，即代表您知晓并同意《[针对好友信息处理方式的说明](/blackboard/xinyuu/about-privacy/)》]

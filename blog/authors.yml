@@ -1,11 +1,14 @@
 xinyuu:
   name: Xinyuu
-  title: Administrator
   url: https://space.bilibili.com/142202292
   image_url: https://static.cocomoe.cn/img/xinyuu-face.jpg
 
 jianlang:
-  name: Allalone
-  title: HCIALab板块负责人
+  name: Allalone 
   url: https://space.bilibili.com/21977351
   image_url: https://static.cocomoe.cn/img/allalone-face.jpg
+
+bojun:
+  name: Yuuki 
+  url: https://space.bilibili.com/195365245
+  image_url: https://static.cocomoe.cn/img/yuuki-face.jpg

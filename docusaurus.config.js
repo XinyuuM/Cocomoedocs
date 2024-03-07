@@ -73,8 +73,18 @@ const config = {
           },
           {
             position: 'left',
+            to: '/blackboard/rss/',
+            label: '📰 Feed',
+          },
+          {
+            position: 'left',
             to: '/blog',
-            label: '📚 Blog',
+            label: '📁 Blog',
+          },
+          {
+            position: 'left',
+            href: 'https://share.calendar.tencent.com/gTATk0tn',
+            label: '📅 日程',
           },
           {
             position: 'right',
@@ -109,8 +119,8 @@ const config = {
                 to: '/blackboard/blacklist'
               },
               {
-                label: '给广告主的信息',
-                href: 'https://www.cocomoe.cn/ir/',
+                label: '支持可可萌',
+                href: 'https://www.cocomoe.cn/helpme/',
               },
 
             ],
@@ -124,6 +134,10 @@ const config = {
               {
                 label: '知乎',
                 href: 'https://www.zhihu.com/people/xinyuu-nasa/',
+              },
+              {
+                label: '贴吧',
+                href: 'https://tieba.baidu.com/home/main?id=tb.1.231d5942.lMBVCs4hOxG6cgS7dh3pRA',
               },
               {
                 label: '抖音',
