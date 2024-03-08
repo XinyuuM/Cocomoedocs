@@ -38,7 +38,13 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false,
+        docs: {
+          // id: 'product', // omitted => default instance
+          path: 'docs',
+          routeBasePath: 'docs',
+          sidebarPath: './sidebars.js',
+          // ... other options
+        },
         blog: {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -73,13 +79,23 @@ const config = {
           },
           {
             position: 'left',
-            to: '/blackboard/rss/',
-            label: '📰 Feed',
+            to: '/blackboard/rss',
+            label: '📰 订阅',
+          },
+          {
+            position: 'left',
+            to: '/docs/category/-favlist',
+            label: '🔖 收藏',
+          },
+          {
+            position: 'left',
+            to: '/docs/beshop',
+            label: '🛍︎ 甄选',
           },
           {
             position: 'left',
             to: '/blog',
-            label: '📁 Blog',
+            label: '📁 博客',
           },
           {
             position: 'left',

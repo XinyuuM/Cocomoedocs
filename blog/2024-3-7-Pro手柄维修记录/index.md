@@ -21,11 +21,11 @@ authors: [xinyuu]
 
 出师不利，不过问题不大。咱有打磨笔。
 
-![](https://static.cocomoe.cn/static/cocomoe/20240307/000.webp)
+![Pro手柄](https://static.cocomoe.cn/static/cocomoe/20240307/000.webp)
 
 取下握把外壳，咱把手柄转向背面。
 
-![](https://static.cocomoe.cn/static/cocomoe/20240307/1.webp)
+![Pro手柄](https://static.cocomoe.cn/static/cocomoe/20240307/1.webp)
 
 拧下如上图所示的四处固定螺丝、卸下背板便可看到电池仓。
 
@@ -48,7 +48,7 @@ authors: [xinyuu]
 
 :::
 
-![2](https://static.cocomoe.cn/static/cocomoe/20240307/2.webp)
+![Pro手柄](https://static.cocomoe.cn/static/cocomoe/20240307/2.webp)
 
 用信用卡、身份证或者您的指甲划开手柄四周的缝隙，轻松分离前盖板。
 
@@ -68,15 +68,15 @@ authors: [xinyuu]
 
 此时我们便可看出问题所在，原来是摇杆进灰造成的摇杆漂移。
 
-![IMG_2953](https://static.cocomoe.cn/static/cocomoe/20240307/IMG_2953.webp)
+![Pro手柄](https://static.cocomoe.cn/static/cocomoe/20240307/IMG_2953.webp)
 
 从顶部入手，轻轻地向上拉起主板。移除主板背部的电池仓小板固定螺丝后便可拿出。
 
-![IMG_2954](https://static.cocomoe.cn/static/cocomoe/20240307/IMG_2954.webp)
+![Pro手柄](https://static.cocomoe.cn/static/cocomoe/20240307/IMG_2954.webp)
 
 ## 问题诊断
 
 清灰，按照步骤组装。问题完美解决。
 
-![00001](https://static.cocomoe.cn/static/cocomoe/20240307/00001.webp)
+![手柄诊断](https://static.cocomoe.cn/static/cocomoe/20240307/00001.webp)
 
