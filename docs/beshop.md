@@ -1,5 +1,5 @@
 ---
-title: 🛍︎ 牛子甄选
+title: 🛍︎ Coco甄选
 sidebar_position: 10
 ---
 

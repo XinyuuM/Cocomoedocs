@@ -3,7 +3,7 @@ title: 👘穿搭
 sidebar_position: 6
 ---
 
-**~~做整条街最靓的仔~~**
+**~~兄弟你好香🤤~~**
 
 1. [跟着《魔法少女伊莉雅》学穿搭](https://www.bilibili.com/video/BV1w14y1t7Fi)
 2. [正面欣赏 学院风厚白穿搭](https://www.bilibili.com/video/BV1vp421R7Tg)

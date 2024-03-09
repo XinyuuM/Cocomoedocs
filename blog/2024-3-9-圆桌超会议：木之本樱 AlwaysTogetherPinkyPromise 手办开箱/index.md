@@ -15,6 +15,8 @@ authors: [xinyuu,bojun]
 
 请看实拍图：
 
+加载太慢？使用[小红书](http://xhslink.com/kDdUeD)查看图集！
+
 ## 包装
 
 ### 缓冲泡沫

@@ -221,7 +221,7 @@ const config = {
             
           },
         ],
-        copyright: `© ${new Date().getFullYear()} cocomoe.cn | 让热爱 更可爱 :)`,
+        copyright: `© ${new Date().getFullYear()} cocomoe.cn | 让热爱 更可爱 🫡`,
       },
       prism: {
         theme: prismThemes.github,

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 欢迎访问王之宝库
+# 访问Xinyuu全网资料
 
 :::tip 提示
 
