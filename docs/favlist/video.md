@@ -12,3 +12,4 @@ sidebar_position: 1
 5. [【铁路纪行】最高试验时速605km"青铜剑"列车的动检日常！CRH380AM-0204更高速度试验列车 济局青段动检车次全天追踪拍摄](https://www.bilibili.com/video/BV1b341127rm)
 6. [[3D打印]“正”](https://www.bilibili.com/video/BV1S6421u7qd)
 7. [【青年文工团】为什么劳动无法致富？](https://www.bilibili.com/video/BV16y421i7AW)
+8. [黑马程序员前端JavaScript入门到精通全套视频教程，javascript核心进阶ES6语法、API、js高级等基础知识和实战教程](https://www.bilibili.com/video/BV1Y84y1L7Nn)

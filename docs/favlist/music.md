@@ -26,3 +26,7 @@ sidebar_position: 3
 19. [【官方MV】あかせあかり「恋ノ行方」（TV动画「更衣人偶坠入爱河」ED）](https://www.bilibili.com/video/BV1qS4y1G7qP)
 20. [【MMD】炉心融解 / Meltdown【YYB V·Stream Rin】【搬运】](https://www.bilibili.com/video/BV1mS4y1T77P)
 21. [【阿梓歌】《你知道我在等你们分手吗》（2024.2.14）](https://www.bilibili.com/video/BV1Ny421a7zv)
+22. [【ななひら×ころねぽち】少女终末旅行ED more one night](https://www.bilibili.com/video/BV1gy4y147sv)
+23. [【初音ミク】スパークル・ピーチ（Sparkle Beach）【めろくる】](https://www.bilibili.com/video/BV14x4y1y71R)
+24. [十年也好，百年也好，千年也好，依然在这里唱歌给你听~](https://www.bilibili.com/video/BV1p34y1y7pa)
+25. [当初音未来遇上邓丽君 · 我只在乎你~](https://www.bilibili.com/video/BV1oJ411C7KG)

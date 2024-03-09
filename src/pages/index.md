@@ -12,8 +12,6 @@ import TabItem from '@theme/TabItem';
 
 在这里，让我们分享知识、分享生活、分享快乐，共同成长！
 
-博客入口在[**这里**](/blog)​。(使用[RSS订阅](/blackboard/rss/)博文)
-
 <div style={{textAlign: 'left'}}>
 :::note[与我取得联系，即代表您知晓并同意《[针对好友信息处理方式的说明](/blackboard/xinyuu/about-privacy/)》]
 <Tabs>
@@ -41,15 +39,19 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="banana" label="以及？">
 
-在互联网舆论愈发两极化、快节奏的今天，保持开放心态、促进理性对话、保持独立思考显得尤为重要。
+> 互联网最具价值的地方，在于赋予人们平等获取信息的权利。**--Tim Berners-Lee**
 
-这便是我建立博客的初衷。用最纯粹的文字描述信息，用最简单的方式记录生活。
+ 他希望万维网能够帮助人类整理现有的知识，提供我们所不知道的东西。
 
-正如《小王子》中所述：
+但在互联网舆论愈发两极化、快节奏的今天，社交平台似乎更喜欢**二元化¹**的**模糊**讨论。
 
-> "It is the time you have wasted for your rose that makes your rose so important."  
+所以保持开放心态、促进理性对话、保持独立思考显得尤为重要。
 
-我付出了大量的时间，我相信所做的一切都有意义。
+我希望你能在这里找到互联网最初的这些特质，这也是我建立Cocomoe的初衷。
+
+**祝你今天也能在纷繁的互联网的矿场里，找到那些触动你内心的金光。😇**
+
+① 二元化：非黑即白，缺乏折中选项的思维模式。
 
   </TabItem>
 </Tabs>

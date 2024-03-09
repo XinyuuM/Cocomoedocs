@@ -1,7 +1,7 @@
 ---
-slug: date20240408
+slug: could-roundtable-2024s1
 title: 「圆桌云会议」：木之本樱 AlwaysTogetherPinkyPromise 手办开箱
-tags: [圆桌会议,手办模玩,SGI,开箱,魔卡少女樱,木之本樱,木之本樱 AlwaysTogetherPinkyPromise]
+tags: [圆桌会议,手办模玩,GSC,开箱,魔卡少女樱,木之本樱,木之本樱 AlwaysTogetherPinkyPromise]
 authors: [xinyuu,bojun]
 ---
 
@@ -15,7 +15,7 @@ authors: [xinyuu,bojun]
 
 请看实拍图：
 
-加载太慢？使用[小红书](http://xhslink.com/kDdUeD)查看图集！
+加载不出来？🤔使用[小红书](http://xhslink.com/kDdUeD)查看图集！
 
 ## 包装
 

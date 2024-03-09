@@ -80,7 +80,7 @@ const config = {
           {
             position: 'left',
             to: '/docs/roundtable',
-            label: '🛡 圆桌',
+            label: '⚔️ 圆桌',
           },
           {
             position: 'left',
@@ -103,19 +103,9 @@ const config = {
             label: '📁 博客',
           },
           {
-            position: 'left',
+            position: 'right',
             href: 'https://share.calendar.tencent.com/gTATk0tn',
             label: '📅 日程',
-          },
-          {
-            position: 'right',
-            href: 'https://ddn.org.cn/',
-            label: 'Datacom Developer Network',
-          },
-          {
-            position: 'right',
-            href: 'https://ns.cocomoe.cn/',
-            label: 'Switch Document',
           },
         ],
         
@@ -199,6 +189,14 @@ const config = {
               {
                 label: 'P5预告信生成器',
                 href: 'https://p5.cocomoe.cn',
+              },
+              {
+                label: 'Switch Document',
+                href: 'https://ns.cocomoe.cn',
+              },
+              {
+                label: 'Datacom Developer Network',
+                href: 'https://ddn.org.cn',
               },
             ],
             

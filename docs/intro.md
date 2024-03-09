@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 访问Xinyuu全网资料
+# 王之财宝
 
 :::tip 提示
 
