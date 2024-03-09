@@ -79,8 +79,8 @@ const config = {
           },
           {
             position: 'left',
-            to: '/blackboard/rss',
-            label: '📰 订阅',
+            to: '/docs/roundtable',
+            label: '🛡 圆桌',
           },
           {
             position: 'left',
@@ -91,6 +91,11 @@ const config = {
             position: 'left',
             to: '/docs/beshop',
             label: '🛍︎ 甄选',
+          },
+          {
+            position: 'left',
+            to: '/blackboard/rss',
+            label: '📰 订阅',
           },
           {
             position: 'left',

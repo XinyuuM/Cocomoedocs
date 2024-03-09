@@ -3,7 +3,7 @@ title: 📺视频
 sidebar_position: 1
 ---
 
-**键政相关视频有大量主观内容输出，看个乐子就好。**
+**键政相关视频有大量主观内容输出，看个乐子就好**
 
 1. [艾跃进：大跃进正本清源，请不要把这顶帽子扣在毛主席头上](https://www.bilibili.com/video/BV19j421m7fA/)
 2. [【青年文工团】罢工：无产阶级的重拳！](https://www.bilibili.com/video/BV11C4y1A7Zq)

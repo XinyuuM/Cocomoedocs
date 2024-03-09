@@ -3,7 +3,7 @@ title: 🎬电影
 sidebar_position: 2
 ---
 
-**诚哥忠实粉丝。**
+**诚哥忠实粉丝**
 
 1. 《[我不是药神](https://www.maoyan.com/films/1200486)》文牧野
 2. 《[星之声](https://www.bilibili.com/bangumi/play/ss2544)》[日]新海诚
