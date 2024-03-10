@@ -60,8 +60,8 @@ import TabItem from '@theme/TabItem';
 
 </div>
 
-:drooling_face:关注[小菲](https://space.bilibili.com/1265680561)喵，关注[小菲](https://space.bilibili.com/1265680561)谢谢喵:drooling_face:
+:drooling_face:关注[嘉然](https://space.bilibili.com/672328094)，顿顿解馋:drooling_face:
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D1265680561%26jsonp%3Djsonp&query=%24.data.follower&logo=bilibili&logoColor=%2300ccff&label=永雏塔菲)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D672328094%26jsonp%3Djsonp&query=%24.data.follower&logo=bilibili&logoColor=%2300ccff&label=嘉然今天吃什么)
 
 </div>

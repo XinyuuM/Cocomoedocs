@@ -6,7 +6,7 @@
 
 1️⃣
 
-**For** `Pan Wei` `Zhao Panwei` `Zhang Mengning` `Zhang Zining`
+**For**  `Zhao Panwei` `Zhang Mengning` `Zhang Zining`
 
 你们是我最初的陪伴者。
 
