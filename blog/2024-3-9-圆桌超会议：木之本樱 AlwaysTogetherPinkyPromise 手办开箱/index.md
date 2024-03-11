@@ -1,5 +1,5 @@
 ---
-slug: could-roundtable-2024s1
+slug: cloud-roundtable-2024s1
 title: 「圆桌云会议」：木之本樱 AlwaysTogetherPinkyPromise 手办开箱
 tags: [圆桌会议,手办模玩,GSC,开箱,魔卡少女樱,木之本樱,木之本樱 AlwaysTogetherPinkyPromise]
 authors: [xinyuu,bojun]

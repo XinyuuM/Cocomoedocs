@@ -3,7 +3,7 @@ title: 🎵音乐
 sidebar_position: 3
 ---
 
-**了解Xinyuu，从这里开始**
+**宝宝巴士**
 
 1. [【阿梓歌】《蒲公英的约定》（2024.3.5）](https://www.bilibili.com/video/BV1xr421W7T3)
 2. [【阿梓歌】《你给我听好》（2024.2.23）](https://www.bilibili.com/video/BV1wj421Q7T3)
@@ -17,12 +17,12 @@ sidebar_position: 3
 10. [【8K画质/Hi-Res/杜比视界/中日歌词】YOASOBI × 宝可梦 梦幻联动！《Biri-Biri》动画MV](https://www.bilibili.com/video/BV1EC4y177vL)
 11. [【MIKU EXPO 10th】Intergalactic Bound by Yunosuke & CircusP feat. Hatsune Miku](https://www.bilibili.com/video/BV1EK4y1z7St)
 12. [【阿梓】春天的芭蕾！（8.6版）](https://www.bilibili.com/video/BV1Qg411L7Hs)
-13. [【中字】Ringing!-唐可可＆下集预告《LoveLive!Superstar!!》第9话“Liella之歌”NHK 教育频道特别环节](https://www.bilibili.com/video/BV1bq4y1K7d6)
+13. **[【中字】Ringing!-唐可可＆下集预告《LoveLive!Superstar!!》第9话“Liella之歌”NHK 教育频道特别环节](https://www.bilibili.com/video/BV1bq4y1K7d6)**
 14. [【中日字幕MV】幾田りら(YOASOBI)新曲「P.S.」完整版](https://www.bilibili.com/video/BV1qz4y1n76N)
 15. [LiSA×Uru - 再会 (produced by Ayase) - THE FIRST TAKE](https://www.bilibili.com/video/BV1LA411j7Jx)
 16. [【Aimer/中日字幕】「コイワズライ」「相思病」这才是恋爱的感觉！](https://www.bilibili.com/video/BV1fK4y197Ue)
 17. [【MV】ヒカリ (光) —幾田りら](https://www.bilibili.com/video/BV13v4y1M7CA)
-18. [【阿梓歌】《普通朋友》（2022.9.20）](https://www.bilibili.com/video/BV1vG411g7Su)
+18. **[【阿梓歌】《普通朋友》（2022.9.20）](https://www.bilibili.com/video/BV1vG411g7Su)**
 19. [【官方MV】あかせあかり「恋ノ行方」（TV动画「更衣人偶坠入爱河」ED）](https://www.bilibili.com/video/BV1qS4y1G7qP)
 20. [【MMD】炉心融解 / Meltdown【YYB V·Stream Rin】【搬运】](https://www.bilibili.com/video/BV1mS4y1T77P)
 21. [【阿梓歌】《你知道我在等你们分手吗》（2024.2.14）](https://www.bilibili.com/video/BV1Ny421a7zv)
@@ -30,3 +30,17 @@ sidebar_position: 3
 23. [【初音ミク】スパークル・ピーチ（Sparkle Beach）【めろくる】](https://www.bilibili.com/video/BV14x4y1y71R)
 24. [十年也好，百年也好，千年也好，依然在这里唱歌给你听~](https://www.bilibili.com/video/BV1p34y1y7pa)
 25. [当初音未来遇上邓丽君 · 我只在乎你~](https://www.bilibili.com/video/BV1oJ411C7KG)
+26. [【SNOW MIKU 2024】ハッピーチートデー / れるりり feat. 初音未来](https://www.bilibili.com/video/BV1NG411Y7tU)
+27. [スノーパフェ・ランデヴー / irucaice feat. Hatsune Miku](https://www.bilibili.com/video/BV1dw4m1Z7zq)
+28. [【*Luna feat.ねんね】あの夏のいつかは (在那個夏日的某天)【2023 Ver.】](https://www.bilibili.com/video/BV1v8411v7n7)
+29. [【ラトナ・プティ & ななひら】琥珀糖的游艇【MV】](https://www.bilibili.com/video/BV1vf4y137TX)
+30. [【冰兔】月兔回旋于空中 / 回る空うさぎ 翻唱](https://www.bilibili.com/video/BV1Eq4y147UY)
+31. [【MV】私色きらめき日和 feat. 夢ノ結晶POPY](https://www.bilibili.com/video/BV1yj411P76S)
+32. [【翻唱】群青 - Covered by Neru](https://www.bilibili.com/video/BV1GZ4y187CB)
+33. [幸祜 No.012「the last bullet」【Official Music Video】](https://www.bilibili.com/video/BV1TL4y1h7HT)
+34. [YOASOBI アドベンチャー(ADVENTURE) Official Music Video](https://www.bilibili.com/video/BV1Kh411V7qp)
+35. [YOASOBI もう少しだけ(Mou Sukoshi Dake) Official Music Video](https://www.bilibili.com/video/BV1WL4y1p73A)
+36. [世界第一可爱的嘉然公主❤️](https://www.bilibili.com/video/BV1vx42197YK)
+37. [**初音ミク (愛されなくても君がいる) 4K60帧 中日双字**](https://www.bilibili.com/video/BV1VM4y1c7Tp)
+38. [JUMP UP / DECO*27 feat. 初音未来](https://www.bilibili.com/video/BV1nA411F762)
+39. [【巡音流歌・初音未来】Jump for Joy - EasyPop【MV】](https://www.bilibili.com/video/BV1H4411P7iU)
