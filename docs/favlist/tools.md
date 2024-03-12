@@ -26,3 +26,4 @@ sidebar_position: 10
 19. [18Comics](https://18comic.org/)：免费看本子，你懂的。
 20. [HackBGRT](https://github.com/Metabolix/HackBGRT)：自定义UEFI启动Logo小工具。
 21. [Keepass](https://keepass.info/)：密码管理软件。
+22. [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition)：屏蔽Xunlei等吸血下载器、peer黑白名单、自动更新tracker列表的功能。
