@@ -18,7 +18,7 @@
 
 2️⃣
 
-**For** `Li Quanda` `Xie Changke` `Deng Yifan`
+**For** `Li Quanda` `Xie Changke` `Deng Yifan` `Li Junru` `Zhouli`
 
 我们一同迎接青春的到来。
 
@@ -40,13 +40,7 @@
 
 和你们通宵在宿舍rush b、睡觉不去上早八，真的非常快乐。
 
-END.
-
-**For** `Everyone`
-
-遇见你们，真的非常幸运。
-
-谢谢你们。
+**我爱你们。**
 
 :smile:
 

@@ -75,7 +75,7 @@ const config = {
           {
             position: 'left',
             to: '/love',
-            label: '❤️ Our Story',
+            label: '❤️ 爱情',
           },
           {
             position: 'left',
@@ -94,13 +94,13 @@ const config = {
           },
           {
             position: 'left',
-            to: '/blackboard/rss',
-            label: '📰 订阅',
+            to: '/blog',
+            label: '📁 博客',
           },
           {
             position: 'left',
-            to: '/blog',
-            label: '📁 博客',
+            to: '/pay/donate',
+            label: '🧋 奶茶',
           },
           {
             position: 'right',
@@ -117,9 +117,18 @@ const config = {
           {
             title: '文档',
             items: [
+              
               {
                 label: '留言箱',
                 href: 'https://kiku.page/xinyuu'
+              },
+              {
+                label: '一杯奶茶',
+                to: '/pay/donate',
+              },
+              {
+                label: '上帝模式',
+                href: 'https://www.cocomoe.cn/god/',
               },
               {
                 label: '收支一览',
@@ -129,11 +138,6 @@ const config = {
                 label: '黑名荣誉榜',
                 to: '/blackboard/blacklist'
               },
-              {
-                label: '支持可可萌',
-                href: 'https://www.cocomoe.cn/helpme/',
-              },
-
             ],
           },
           {

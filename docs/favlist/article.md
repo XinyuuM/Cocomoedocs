@@ -11,3 +11,4 @@ sidebar_position: 5
 4. [BilibiliAPI 合集 含个人、视频、直播等信息](https://www.bilibili.com/read/cv12357091)
 5. [走台湾 台湾动漫书店门市搜罗](https://tieba.baidu.com/p/4877488044)
 6. [在上思政课，聊聊自己的室友](https://tieba.baidu.com/p/7608197059)
+7. [[施工中]尝试解密微信小程序码](https://zhuanlan.zhihu.com/p/31196987)
