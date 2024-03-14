@@ -27,3 +27,4 @@ sidebar_position: 10
 20. [HackBGRT](https://github.com/Metabolix/HackBGRT)：自定义UEFI启动Logo小工具。
 21. [Keepass](https://keepass.info/)：密码管理软件。
 22. [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition)：屏蔽Xunlei等吸血下载器、peer黑白名单、自动更新tracker列表的功能。
+23. [FileZilla](https://www.filezilla.cn/)：免费开源的FTP解决方案。
