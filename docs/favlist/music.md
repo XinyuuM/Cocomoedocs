@@ -46,3 +46,4 @@ sidebar_position: 3
 39. [【巡音流歌・初音未来】Jump for Joy - EasyPop【MV】](https://www.bilibili.com/video/BV1H4411P7iU)
 40. [【初音ミク】Rise up【*Luna】【Fit Boxing feat. 初音ミク】](https://www.bilibili.com/video/BV1Hw4m1Z79Z)
 41. [【MORE MORE JUMP！ × 初音ミク】JUMPIN’ OVER !【2DMV／『世界计划 多彩舞台』主题原创曲】【中文CC字幕】](https://www.bilibili.com/video/BV1pm411f7JY)
+42. [【4K·BD&HiRes】Chance Day, Chance Way！-Liella!《LoveLive!Superstar!!》第二季第8话插入歌](https://www.bilibili.com/video/BV1c44y1f7dV)

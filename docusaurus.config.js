@@ -74,8 +74,8 @@ const config = {
         items: [
           {
             position: 'left',
-            to: '/love',
-            label: '❤️ 爱情',
+            to: '/project/sunshine-and-moonlight',
+            label: '☀️ SM 🌙',
           },
           {
             position: 'left',

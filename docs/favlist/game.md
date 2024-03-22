@@ -4,7 +4,7 @@ title: 🎮游戏
 
 **全世界都在催你长大，只有任天堂把你当作最初的那个天真的小朋友😙**
 
-## The Legend of Zelda
+### The Legend of Zelda
 
 1. [The Legend of Zelda: Breath of the Wild](https://zelda.nintendo.com/breath-of-the-wild/)¹ ² ³ ⁴
 2. [The Legend of Zelda: Tears of the Kingdom ](https://www.nintendo.com.hk/zelda/totk/)⁵
@@ -21,7 +21,7 @@ title: 🎮游戏
 >
 > [5]TGA 2022 最受期待游戏
 
-## Splatoon
+### Splatoon
 
 1. [Splatoon 3](https://www.nintendo.com.hk/switch/av5ja) ¹ ²
 
@@ -29,6 +29,6 @@ title: 🎮游戏
 >
 > [2]TGA2022 最佳多人游戏
 
-## Animal Crossing
+### Animal Crossing
 
 1. [Animal Crossing: New Horizons](https://animalcrossing.nintendo.com/)
