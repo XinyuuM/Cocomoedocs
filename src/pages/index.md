@@ -31,6 +31,25 @@ import TabItem from '@theme/TabItem';
 ① ~~他们总说我眼光太高了，但是我喜欢的女孩没一个到手了的~~
 
   </TabItem>  
+
+  <TabItem value="tax" label="好友评价？">
+
+> 你是我同学就好了，我直接榨干你的利用价值。---Charge
+
+> 你什么人都帮，太好心肠了。--林檎GO
+
+> 还是你有钱。--奶丝初米球
+
+> 花丛中过，叶不沾身！--第八日的蝉
+
+> 我的评价是暖男排舔狗后面。--雪见痕Zz
+
+> 哥哥包养我。--傻杯
+
+> 可可上班纯粹是体验生活。--子丘
+
+  </TabItem>
+
   <TabItem value="orange" label="我的联系方式？">
 
   投诉、建议、反馈请发送邮件到：hi@cocomoe.cn 

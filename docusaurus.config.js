@@ -75,7 +75,7 @@ const config = {
           {
             position: 'left',
             to: '/project/sunshine-and-moonlight',
-            label: '☀️ SM 🌙',
+            label: '☀️ Sunshine and Moonlight 🌙',
           },
           {
             position: 'left',
