@@ -3,15 +3,13 @@
 **请Xinyuu喝饮料。**
 
 <div style={{textAlign: 'center'}}>
-
-![](https://static.cocomoe.cn/static/cocomoe/pay/xinyuu.webp)
-
 **Xinyuu**
 
 Guangzhou
 
 尾流UP主、灵活就业人员，爱好羽毛球
 </div>
+
 ## 如果你在街上遇见我...
 
 你会请我喝一杯吗？

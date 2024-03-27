@@ -104,8 +104,8 @@ const config = {
           },
           {
             position: 'right',
-            href: 'https://share.calendar.tencent.com/gTATk0tn',
-            label: '📅 日程',
+            href: 'https://www.yuque.com/atxinyuu/surfboard',
+            label: '🏄‍♀️ 冲浪板',
           },
         ],
         
@@ -149,6 +149,10 @@ const config = {
               {
                 label: '知乎',
                 href: 'https://www.zhihu.com/people/xinyuu-nasa/',
+              },
+              {
+                label: '语雀',
+                href: 'https://www.yuque.com/atxinyuu',
               },
               {
                 label: '贴吧',
