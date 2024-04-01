@@ -47,3 +47,5 @@ sidebar_position: 3
 40. [【初音ミク】Rise up【*Luna】【Fit Boxing feat. 初音ミク】](https://www.bilibili.com/video/BV1Hw4m1Z79Z)
 41. [【MORE MORE JUMP！ × 初音ミク】JUMPIN’ OVER !【2DMV／『世界计划 多彩舞台』主题原创曲】【中文CC字幕】](https://www.bilibili.com/video/BV1pm411f7JY)
 42. [【4K·BD&HiRes】Chance Day, Chance Way！-Liella!《LoveLive!Superstar!!》第二季第8话插入歌](https://www.bilibili.com/video/BV1c44y1f7dV)
+43. [【弘函】ひろがる世界へはこぶ風 / 一二三 feat.初音未来](https://www.bilibili.com/video/BV1xq421A7VL)
+44. [Aimer 「everlasting snow」官方MV](https://www.bilibili.com/video/BV1mu4m1N7bY)
