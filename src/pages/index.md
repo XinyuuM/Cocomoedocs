@@ -13,7 +13,7 @@ import TabItem from '@theme/TabItem';
 在这里，让我们分享知识、分享生活、分享快乐，共同成长！
 
 <div style={{textAlign: 'left'}}>
-:::note[与我取得联系，即代表您知晓并同意《[针对好友信息处理方式的说明](/blackboard/xinyuu/about-privacy/)》]
+:::note 与我取得联系，即代表您知晓并同意《[针对好友信息处理方式的说明](/blackboard/xinyuu/about-privacy/)》
 <Tabs>
 <TabItem value="about" label="关于我？">
  [任豚](https://www.zhihu.com/question/267175199)、一名积极响应国家[**灵活就业**](https://www.zhihu.com/search?type=content&q=%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A)政策的人员，失败的站长。也没有什么特长，大概就喜欢鼓捣网站吧。

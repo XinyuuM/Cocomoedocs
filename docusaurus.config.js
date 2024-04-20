@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '可可萌〃•ω‹〃',
+  title: '可可萌',
   tagline:'万物皆「可萌」(⑅˃◡˂⑅)',
   favicon: 'img/favicon.ico',
 
@@ -111,6 +111,11 @@ const config = {
         
         
       },
+      algolia: {
+        apiKey: "d3be9bb683b53a95cd23d3de30e4e5ce",
+        indexName: "cocomoeSearch",
+        appId: "L5HNVOI8U6",
+    },
       footer: {
         style: 'dark',
         links: [
