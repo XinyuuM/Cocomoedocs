@@ -51,3 +51,4 @@ sidebar_position: 3
 44. [Aimer 「everlasting snow」官方MV](https://www.bilibili.com/video/BV1mu4m1N7bY)
 45. [【初音ミク＆可不】ツキミチシルベ （Tsukimichi Shirube）【MIMI】](https://www.bilibili.com/video/BV1qm41167TK)
 46. [你的前女友成了别人的女朋友【前女友系日本主播高槻律翻唱別の人の彼女になったよ】](https://www.bilibili.com/video/BV1mE421M7nT)
+47. [【初音ミク/つこ】 Opening*Spring 【オリジナル曲】](https://www.bilibili.com/video/BV16K421Y7h4)
