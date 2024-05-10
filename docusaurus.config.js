@@ -74,8 +74,8 @@ const config = {
         items: [
           {
             position: 'left',
-            to: '/project/sunshine-and-moonlight',
-            label: '☀️ Sunshine and Moonlight 🌙',
+            to: '/docs/doraemon',
+            label: '🔔 时光机',
           },
           {
             position: 'left',
@@ -111,11 +111,7 @@ const config = {
         
         
       },
-      algolia: {
-        apiKey: "d3be9bb683b53a95cd23d3de30e4e5ce",
-        indexName: "cocomoeSearch",
-        appId: "L5HNVOI8U6",
-    },
+      
       footer: {
         style: 'dark',
         links: [
@@ -128,12 +124,12 @@ const config = {
                 href: 'https://kiku.page/xinyuu'
               },
               {
-                label: '一杯奶茶',
-                to: '/pay/donate',
-              },
-              {
                 label: '上帝模式',
                 href: 'https://www.cocomoe.cn/god/',
+              },
+              {
+                label: '一杯奶茶',
+                to: '/pay/donate',
               },
               {
                 label: '收支一览',
@@ -184,6 +180,10 @@ const config = {
                 href: 'https://500px.com.cn/atxinyuu',
               },
               {
+                label: 'Qzone',
+                href: 'https://user.qzone.qq.com/1217885307'
+              },
+              {
                 label: 'Steamcommunity',
                 href: 'https://steamcommunity.com/id/xinyuu/',
               },
@@ -232,7 +232,7 @@ const config = {
             
           },
         ],
-        copyright: `© ${new Date().getFullYear()} cocomoe.cn | 让热爱 更可爱 🫡`,
+        copyright: `© ${new Date().getFullYear()} 曦语 | 识时务 知进退 善其身 🫡`,
       },
       prism: {
         theme: prismThemes.github,

@@ -48,13 +48,15 @@ import TabItem from '@theme/TabItem';
 
 > 可可上班纯粹是体验生活。--子丘
 
+在**[此处](https://kiku.page/xinyuu)**向我留言
+
   </TabItem>
 
   <TabItem value="orange" label="我的联系方式？">
 
   投诉、建议、反馈请发送邮件到：hi@cocomoe.cn 
 
-  博客二级域名申请、协作、PY交易请加微信：`XinyuuArts`
+  博客二级域名申请、协作、PY交易请加微信：`atxinyuu`
   </TabItem>
   <TabItem value="banana" label="以及？">
 

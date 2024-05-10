@@ -4,7 +4,7 @@ title: 🎮游戏
 
 **全世界都在催你长大，只有任天堂把你当作最初的那个天真的小朋友😙**
 
-## NintendoSwitch主机平台
+## NintendoSwitch 主机平台
 
 :::tip 与我联机，您需要成为我的NintendoSwitch好友
 
@@ -53,9 +53,11 @@ Steam（全球）个人信息页面：https://steamcommunity.com/id/xinyuu/
 
 蒸汽平台（中国大陆）个人信息页面：https://my.steamchina.com/id/xinyuu/
 
+当您的账户拥有 **优先状态** 时才能与我联机。[购买Counter Strike优先状态升级](https://store.steamchina.com/app/730/_/)
+
 :::
 
-<iframe src="https://store.steampowered.com/widget/730/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/730/" frameborder="0" width="100%" height="190"></iframe>
 
 ### 战地风云 
 
@@ -67,11 +69,11 @@ EAID：`atxinyuu`
 
 :::
 
-<iframe src="https://store.steampowered.com/widget/1517290/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/1517290/" frameborder="0" width="100%" height="190"></iframe>
 
-<iframe src="https://store.steampowered.com/widget/1238810/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/1238810/" frameborder="0" width="100%" height="190"></iframe>
 
-<iframe src="https://store.steampowered.com/widget/1238840/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/1238840/" frameborder="0" width="100%" height="190"></iframe>
 
 ### 侠盗猎车手
 
@@ -81,9 +83,9 @@ SocialClub页面：https://socialclub.rockstargames.com/member/16emiya
 
 :::
 
-<iframe src="https://store.steampowered.com/widget/271590/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/271590/" frameborder="0" width="100%" height="190"></iframe>
 
-<iframe src="https://store.steampowered.com/widget/12210/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/12210/" frameborder="0" width="100%" height="190"></iframe>
 
 ### 地平线
 
@@ -95,40 +97,4 @@ SocialClub页面：https://socialclub.rockstargames.com/member/16emiya
 
 :::
 
-<iframe src="https://store.steampowered.com/widget/1293830/451350/" frameborder="0" width="646" height="190"></iframe>
-
-### NEKOPARA
-
-<iframe src="https://store.steampowered.com/widget/899970/" frameborder="0" width="646" height="190"></iframe>
-
-<iframe src="https://store.steampowered.com/widget/385800/" frameborder="0" width="646" height="190"></iframe>
-
-<iframe src="https://store.steampowered.com/widget/333600/" frameborder="0" width="646" height="190"></iframe>
-
-<iframe src="https://store.steampowered.com/widget/420110/" frameborder="0" width="646" height="190"></iframe>
-
-<iframe src="https://store.steampowered.com/widget/602520/" frameborder="0" width="646" height="190"></iframe>
-
-<iframe src="https://store.steampowered.com/widget/1406990/" frameborder="0" width="646" height="190"></iframe>
-
-### 美少女万华镜
-
-<iframe src="https://store.steampowered.com/widget/1310990/" frameborder="0" width="646" height="190"></iframe>
-
-### 爱上火车
-
-<iframe src="https://store.steampowered.com/widget/1434480/" frameborder="0" width="646" height="190"></iframe>
-
-<iframe src="https://store.steampowered.com/widget/880950/" frameborder="0" width="646" height="190"></iframe>
-
-### 千恋万花
-
-<iframe src="https://store.steampowered.com/widget/1144400/" frameborder="0" width="646" height="190"></iframe>
-
-### 星之梦
-
-<iframe src="https://store.steampowered.com/widget/623080/" frameborder="0" width="646" height="190"></iframe>
-
-### CLANNAD
-
-<iframe src="https://store.steampowered.com/widget/324160/" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/1293830/451350/" frameborder="0" width="100%" height="190"></iframe>
