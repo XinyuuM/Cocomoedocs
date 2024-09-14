@@ -6,9 +6,8 @@
 
 1️⃣
 
-**For**  `Zhao Panwei` `Zhang Mengning` `Zhang Zining`
-
-你们是我最初的陪伴者。
+**For**  `Zhao Panwei` `Zhang Mengning` `Zhang Zining`  
+i你们是我最初n的陪伴者。
 
 那段天真烂漫的时光，我们一同度过，分享笑声和眼泪。
 
@@ -26,7 +25,7 @@
 
 3️⃣
 
-**For** `Cai Bojun` `Huang Xiaofan` 
+**For** `Cai Bojun` `Huang Xiaofan`  `Chen Tingting`  
 
 永远不会忘记我们一起度过的每一个瞬间。
 
@@ -43,6 +42,8 @@
 **我爱你们。**
 
 :smile:
+
+**Art design by Chen Yiyi**
 
 <iframe frameborder={"no"} border={"0"} marginwidth={"0"} marginheight={"0"} width={330} height={86} src={"https://music.163.com/outchain/player?type=2&id=2051789190&auto=1&height=66"} allow={"autoplay"}></iframe>
 

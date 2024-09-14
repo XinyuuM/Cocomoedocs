@@ -22,9 +22,7 @@ import TabItem from '@theme/TabItem';
 
 男：21，单身。~~喜欢有趣的女孩子。到现在也只找到了几个有那么喜欢的女孩¹吧！~~
 
-正所谓三十而立，这种事情在干成事业之前呢，可能会成为自己的障碍。
-
-那么**以后再考虑吧**!😄
+我是为了保持美好幻想和前进动力而单身，不是因为找不到女朋友！
 
 注释：
 
@@ -81,8 +79,17 @@ import TabItem from '@theme/TabItem';
 
 </div>
 
+**↓站❤️长❤️力❤️荐↓**
+
+[![](/img/ad1.jpg)](https://www.bilibili.com/video/BV1BF41117ss/)
+[![](/img/ad2.jpg)](https://www.bilibili.com/video/BV15e4y197ws/)
+[![](/img/ad4.jpg)](https://www.bilibili.com/video/BV1Pw4m1Y7Km/)
+[![](/img/ad3.jpg)](https://ditu.amap.com/search?query=%E4%B8%9C%E8%8E%9E%E5%B8%82%E6%B8%85%E6%BA%AA%E9%95%87%E4%B8%80%E6%85%A7%E7%9C%BC%E9%95%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&city=441900&geoobj=114.118834%7C22.820384%7C114.19346%7C22.855775&zoom=14.73)
+
 :drooling_face:关注[嘉然](https://space.bilibili.com/672328094)，顿顿解馋:drooling_face:
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D672328094%26jsonp%3Djsonp&query=%24.data.follower&logo=bilibili&logoColor=%2300ccff&label=嘉然今天吃什么)
+
+
 
 </div>

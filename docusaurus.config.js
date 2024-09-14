@@ -103,10 +103,18 @@ const config = {
             label: '🧋 奶茶',
           },
           {
+            position: 'left',
+            href: '/love',
+            label: '❤️ Our Story',
+          },
+          {
             position: 'right',
             href: 'https://www.yuque.com/atxinyuu/surfboard',
             label: '🏄‍♀️ 冲浪板',
           },
+          
+
+          
         ],
         
         
@@ -136,8 +144,8 @@ const config = {
                 href: '/blackboard/topic/tp233',
               },
               {
-                label: '黑名荣誉榜',
-                to: '/blackboard/blacklist'
+                label: '悬顶之剑',
+                to: '/blackboard/sword-of-damocles'
               },
             ],
           },
@@ -210,6 +218,10 @@ const config = {
               {
                 label: 'Datacom Developer Network',
                 href: 'https://ddn.org.cn',
+              },
+              {
+                label: 'XinyuuNAS',
+                href: 'http://kz237924xb60.vicp.fun/',
               },
             ],
             

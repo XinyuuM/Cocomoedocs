@@ -20,7 +20,7 @@ Guangzhou
 
 Datacom Developer Network工具箱请使用爱发电。
 
-<iframe id="afdian_leaflet_{1}" src="https://afdian.net/leaflet?slug=xinyuu" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
+<iframe id="afdian_leaflet_{1}" src="https://afdian.com/leaflet?slug=xinyuu" width="100%" scrolling="no" height="200" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_{1}").width = "100%" : document.getElementById("afdian_leaflet_{1}").width = "640"</script>
 
 ****
 
