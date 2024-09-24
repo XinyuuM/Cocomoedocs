@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcocomoe=self.webpackChunkcocomoe||[]).push([[5426],{2800:s=>{s.exports=JSON.parse('{"label":"Zshots","permalink":"/blog/tags/zshots","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

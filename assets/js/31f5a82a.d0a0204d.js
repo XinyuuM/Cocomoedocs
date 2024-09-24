@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcocomoe=self.webpackChunkcocomoe||[]).push([[6555],{9804:e=>{e.exports=JSON.parse('{"label":"Nintendo","permalink":"/blog/tags/nintendo","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

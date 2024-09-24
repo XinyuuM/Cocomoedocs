@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcocomoe=self.webpackChunkcocomoe||[]).push([[424],{4427:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/\u6728\u4e4b\u672c\u6a31-always-together-pinky-promise","page":1,"postsPerPage":4,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
