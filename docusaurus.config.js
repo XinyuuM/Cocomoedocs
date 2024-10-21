@@ -244,7 +244,7 @@ const config = {
             
           },
         ],
-        copyright: `© ${new Date().getFullYear()} 曦语 | 识时务 知进退 善其身 | 编译日期：20240926.gh-pages`,
+        copyright: `© ${new Date().getFullYear()} 曦语 | 识时务 知进退 善其身 | 编译日期：20241022.gh-pages`,
       },
       prism: {
         theme: prismThemes.github,
