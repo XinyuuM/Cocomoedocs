@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://www.cocomoe.cn',
+  url: 'https://coco.acgod.cn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -244,7 +244,7 @@ const config = {
             
           },
         ],
-        copyright: `© ${new Date().getFullYear()} 曦语 | 识时务 知进退 善其身 | 编译日期：20241022.gh-pages`,
+        copyright: `© ${new Date().getFullYear()} 曦语 | 识时务 知进退 善其身 | 编译日期：20241024.gh-pages`,
       },
       prism: {
         theme: prismThemes.github,

@@ -28,4 +28,5 @@ sidebar_position: 10
 21. [Keepass](https://keepass.info/)：密码管理软件。
 22. [qBittorrent Enhanced](https://github.com/c0re100/qBittorrent-Enhanced-Edition)：屏蔽Xunlei等吸血下载器、peer黑白名单、自动更新tracker列表的功能。
 23. [FileZilla](https://www.filezilla.cn/)：免费开源的FTP解决方案。
-24. [ToDesk](https://www.todesk.com/)
+24. [ToDesk](https://www.todesk.com/)：稳定快速的远程软件。
+25. [Steam](https://store.steampowered.com/about)：畅玩游戏、讨论游戏、创造游戏的快乐所在。

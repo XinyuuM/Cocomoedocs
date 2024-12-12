@@ -7,13 +7,13 @@ authors: [xinyuu,huahua]
 
 在平凡的一天中迎接新成员的到来。😇
 
-![](https://static.cocomoe.cn/static/cocomoe/20240320/1.webp)
+![](https://static-g.acgod.cn/static/cocomoe/20240320/1.webp)
 
 <!-- truncate -->
 
-![](https://static.cocomoe.cn/static/cocomoe/20240320/2.webp)
+![](https://static-g.acgod.cn/static/cocomoe/20240320/2.webp)
 
-![](https://static.cocomoe.cn/static/cocomoe/20240320/3.webp)
+![](https://static-g.acgod.cn/static/cocomoe/20240320/3.webp)
 
-![](https://static.cocomoe.cn/static/cocomoe/20240320/4.webp)
+![](https://static-g.acgod.cn/static/cocomoe/20240320/4.webp)
 

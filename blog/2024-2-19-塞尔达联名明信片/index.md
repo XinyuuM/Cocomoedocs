@@ -5,7 +5,7 @@ tags: [塞尔达传说,明信片]
 authors: [xinyuu]
 ---
 
-![](https://static.cocomoe.cn/static/cocomoe/2024-2-19-zeldapostcard-main.webp)
+![](https://static-g.acgod.cn/static/cocomoe/2024-2-19-zeldapostcard-main.webp)
 
 **明信片文件**：
 
@@ -43,9 +43,9 @@ thanks.🙂
 
 **正面**
 
-![](https://static.cocomoe.cn/static/cocomoe/2024-2-19-zeldapostcard-00.webp)
+![](https://static-g.acgod.cn/static/cocomoe/2024-2-19-zeldapostcard-00.webp)
 
 **背面**
 
-![](https://static.cocomoe.cn/static/cocomoe/2024-2-19-zeldapostcard-01.webp)
+![](https://static-g.acgod.cn/static/cocomoe/2024-2-19-zeldapostcard-01.webp)
 

@@ -2,6 +2,14 @@ import Tabs from '@theme/Tabs';
 
 import TabItem from '@theme/TabItem';
 
+:::tip
+
+原域名 **coco**moe.cn 将于2026年1月1日替换为 **coco**.acgod.cn。
+
+2026年1月1日之后将关闭域名的301跳转功能，请悉知。
+
+:::
+
 <div style={{textAlign: 'center'}}>
 ![](/img/link-index.webp)
 
@@ -84,7 +92,7 @@ import TabItem from '@theme/TabItem';
 [![](/img/ad1.jpg)](https://www.bilibili.com/video/BV1BF41117ss/)
 [![](/img/ad2.jpg)](https://www.bilibili.com/video/BV15e4y197ws/)
 [![](/img/ad4.jpg)](https://www.bilibili.com/video/BV1Pw4m1Y7Km/)
-[![](/img/ad3.jpg)](https://ditu.amap.com/search?query=%E4%B8%9C%E8%8E%9E%E5%B8%82%E6%B8%85%E6%BA%AA%E9%95%87%E4%B8%80%E6%85%A7%E7%9C%BC%E9%95%9C%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&city=441900&geoobj=114.118834%7C22.820384%7C114.19346%7C22.855775&zoom=14.73)
+[![](/img/ad3.jpg)](https://ditu.amap.com/place/B0G3SSXO2M)
 
 :drooling_face:关注[嘉然](https://space.bilibili.com/672328094)，顿顿解馋:drooling_face:
 
