@@ -2,11 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco.acgod.cn/blog</id>
     <title>可可萌 Blog</title>
-    <updated>2024-07-14T00:00:00.000Z</updated>
+    <updated>2025-02-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coco.acgod.cn/blog"/>
     <subtitle>可可萌 Blog</subtitle>
     <icon>https://coco.acgod.cn/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[中国 A 类业余无线电台操作证考点速记]]></title>
+        <id>https://coco.acgod.cn/blog/2025/2/3/中国 A 类业余无线电台操作证考点速记</id>
+        <link href="https://coco.acgod.cn/blog/2025/2/3/中国 A 类业余无线电台操作证考点速记"/>
+        <updated>2025-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[政策性题目]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="政策性题目">政策性题目<a href="https://coco.acgod.cn/blog/2025/2/3/%E4%B8%AD%E5%9B%BD%20A%20%E7%B1%BB%E4%B8%9A%E4%BD%99%E6%97%A0%E7%BA%BF%E7%94%B5%E5%8F%B0%E6%93%8D%E4%BD%9C%E8%AF%81%E8%80%83%E7%82%B9%E9%80%9F%E8%AE%B0#%E6%94%BF%E7%AD%96%E6%80%A7%E9%A2%98%E7%9B%AE" class="hash-link" aria-label="政策性题目的直接链接" title="政策性题目的直接链接">​</a></h2>
+<p><strong>「三短一长选最长，三场一短选最短，特殊题目特殊记」</strong></p>
+<p>特殊内容</p>
+<ul>
+<li>中央（国家）部门大于地方性部门，中央军委、国务院和工信部在无线电管理也要「插一腿」。</li>
+</ul>
+<blockquote>
+<p>例：申请设置业余无线电台应当具备的条件有： 熟悉无线电管理规定、<strong>具备国家规定的操作技术能力</strong>、发射设备符合国家技术标准、法律和行政法规规定的其他条件。</p>
+</blockquote>
+<ul>
+<li>业余无线电与体育运动没两毛钱关系，所以没体育相关管理组织的事情。</li>
+</ul>
+<blockquote>
+<p>例： 2013 年 1 月 1 日以后新获得的各类业余电台操作技术能力证明文件是： <strong>中国无线电协会</strong>颁发的《业余电台操作证书》</p>
+</blockquote>
+<ul>
+<li>业余无线电台只能用于技术研究和普及活动，不能用于任何牟利目的，也不可转发转发广播电台、互联网聊天、电话通话等内容。只有在重大突发自然灾害的条件下才能接受有关部门指定的工作。</li>
+<li>无线电管制：特定时间特定区域</li>
+<li>A 类：25W，30~3000 MHz，发射频率不能超过业余业务，由《中华人民共和国无线电频率划分规定》划分。</li>
+</ul>
+<blockquote>
+<p>例：业余无线电专用发射设备必须满足的主要技术指标要求包括： 频率容限和杂散辐射<strong>不超过限值</strong>，<strong>发射频率不超出国家规定的业余频率</strong></p>
+</blockquote>
+<ul>
+<li>设置业余无线电台需要提交<strong>两种表格</strong>。多台设备使用同一个呼号。有效期满前一个月去续期。各种变更及时处理。</li>
+<li><strong>中继台、信标台、空间台</strong>属于特殊电台</li>
+<li>用黑电台的罚款五千，造假证的和超出频率规定（造成危害的balabala）罚款三万。（均为最多）</li>
+<li>易混淆题目：</li>
+</ul>
+<ol>
+<li>在无线电管理中，由国家将某个特定的频带列入频率<strong>划分</strong>表，规定该频带可在指定的条件下供业余业务或者卫星业余业务使用，这个过程称为：划分</li>
+<li>在无线电管理中，将无线电频率或频道<strong>规定</strong>由一个或多个部门，在指定的区域内供地面或空间无线电通信业务在指定条件下使用，这个过程称为：分配</li>
+<li>在无线电管理中，将无线电频率或频道<strong>批准</strong>给具体的业余无线电台在规定条件下使用，这个过程称为：指配</li>
+</ol>
+<ul>
+<li>违法行为一定禁止，同时要避免对其他电台的有害干扰。</li>
+</ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「圆桌超会议」：富哥的手办柜]]></title>
         <id>https://coco.acgod.cn/blog/shouban</id>
@@ -105,19 +149,6 @@
             <name>花花</name>
         </author>
         <category label="动物朋友" term="动物朋友"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱发电]]></title>
-        <id>https://coco.acgod.cn/blog/afadain</id>
-        <link href="https://coco.acgod.cn/blog/afadain"/>
-        <updated>2024-03-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cocomoe已接入爱发电。]]></summary>
-        <content type="html"><![CDATA[<p>Cocomoe已接入爱发电。</p>]]></content>
-        <author>
-            <name>Xinyuu</name>
-            <uri>https://space.bilibili.com/142202292</uri>
-        </author>
-        <category label="公告" term="公告"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[杂谈#1]]></title>
@@ -357,7 +388,7 @@
         <updated>2024-02-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[新年快乐！又或者是小年快乐？]]></summary>
         <content type="html"><![CDATA[<p>🎉<strong>新年快乐！又或者是小年快乐？</strong></p>
-<p>今天正式公开了我们2024年的财务收支表：<a href="http://www-g.acgod.cn/blackboard/topic/tp233" target="_blank" rel="noopener noreferrer">http://www-g.acgod.cn/blackboard/topic/tp233</a></p>
+<p>今天正式公开了我们2024年的财务收支表：<a href="http://acgod.cn/blackboard/topic/tp233" target="_blank" rel="noopener noreferrer">http://acgod.cn/blackboard/topic/tp233</a></p>
 <p>此外，我们还收到了来自LoveStoryProject的新年礼物！ 😄​</p>
 <p>在这个充满希望和喜悦的新一年里，让我们共同创造更多美好的回忆，共享幸福与成就。祝福大家新年快乐，心想事成！</p>
 <p><img decoding="async" loading="lazy" src="https://static-g.acgod.cn/static/kikubox-xinyuu.jpg" alt="" class="img_ev3q"></p>]]></content>
