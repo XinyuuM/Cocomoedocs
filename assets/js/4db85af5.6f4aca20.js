@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcocomoe=self.webpackChunkcocomoe||[]).push([[4060],{181:a=>{a.exports=JSON.parse('{"tag":{"label":"GSC","permalink":"/blog/tags/gsc","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/gsc","page":1,"postsPerPage":4,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

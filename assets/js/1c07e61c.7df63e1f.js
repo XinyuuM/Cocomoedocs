@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcocomoe=self.webpackChunkcocomoe||[]).push([[7685],{9867:s=>{s.exports=JSON.parse('{"tag":{"label":"Zshots","permalink":"/blog/tags/zshots","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/zshots","page":1,"postsPerPage":4,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

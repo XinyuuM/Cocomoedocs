@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcocomoe=self.webpackChunkcocomoe||[]).push([[2862],{1801:e=>{e.exports=JSON.parse('{"label":"\u6728\u4e4b\u672c\u6a31 AlwaysTogetherPinkyPromise","permalink":"/blog/tags/\u6728\u4e4b\u672c\u6a31-always-together-pinky-promise","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
