@@ -188,8 +188,8 @@ const config = {
                 href: 'https://500px.com.cn/atxinyuu',
               },
               {
-                label: 'Qzone',
-                href: 'https://user.qzone.qq.com/1217885307'
+                label: 'HamCQ',
+                href: 'https://forum.hamcq.cn/u/7225'
               },
               {
                 label: 'Steamcommunity',

@@ -30,3 +30,5 @@ sidebar_position: 10
 23. [FileZilla](https://www.filezilla.cn/)：免费开源的FTP解决方案。
 24. [ToDesk](https://www.todesk.com/)：稳定快速的远程软件。
 25. [Steam](https://store.steampowered.com/about)：畅玩游戏、讨论游戏、创造游戏的快乐所在。
+26. [OfficeToos](https://otp.landian.vip/zh-cn/)
+27. [AkamsCN](https://akams.cn/)
