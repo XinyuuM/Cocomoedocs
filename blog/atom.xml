@@ -26,7 +26,8 @@
 <p>振子材质：Φ3×0.15mm不锈钢</p>
 <p>有源振子材质：Φ3×0.15mm不锈钢</p>
 <p>馈电点连接方式：压接</p>
-<p>主梁与振子连接方式：热熔</p>
+<p>主梁与振子连接方式[legacy]：热熔</p>
+<p>主梁与振子连接方式：卡扣</p>
 <p><img decoding="async" loading="lazy" alt="微信图片_2025-05-15_090457_472" src="https://coco.acgod.cn/assets/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-05-15_090457_472-9061c25ece5fc464a3b7a1f5a9efb96e.jpg" width="1080" height="1920" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" alt="微信图片_2025-05-15_090516_020" src="https://coco.acgod.cn/assets/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-05-15_090516_020-e9b6ad495cb5c594107bb4fe85845450.jpg" width="2464" height="3280" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025513更新">2025.5.13更新：<a href="https://coco.acgod.cn/blog/UFH-yagi#2025513%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.13更新：的直接链接" title="2025.5.13更新：的直接链接">​</a></h3>
@@ -37,7 +38,15 @@
 <p>1、加固有源振子</p>
 <p>2、调整指向振子的倾斜角度</p>
 <p><img decoding="async" loading="lazy" alt="558780b77e76f50e81aee652d83f12d4" src="https://coco.acgod.cn/assets/images/558780b77e76f50e81aee652d83f12d4-b2ca217cb7a99de8a4623a22b7115a01.jpg" width="1279" height="1706" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="5edab7735e0e7948d39b50b3b46eb0c9" src="https://coco.acgod.cn/assets/images/5edab7735e0e7948d39b50b3b46eb0c9-b94551ad879fc049655d4ff752362e49.jpg" width="1279" height="1706" class="img_ev3q"></p>]]></content>
+<p><img decoding="async" loading="lazy" alt="5edab7735e0e7948d39b50b3b46eb0c9" src="https://coco.acgod.cn/assets/images/5edab7735e0e7948d39b50b3b46eb0c9-b94551ad879fc049655d4ff752362e49.jpg" width="1279" height="1706" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025515日更新">2025.5.15日更新：<a href="https://coco.acgod.cn/blog/UFH-yagi#2025515%E6%97%A5%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.15日更新：的直接链接" title="2025.5.15日更新：的直接链接">​</a></h3>
+<p>1、更改振子连接方式为卡扣连接，使其便于拆卸安装。</p>
+<p>2、更换馈线材料：50-3。</p>
+<p>3、加入U形线缆匹配阻抗。</p>
+<p>4、更改馈电点，压接面积更大。</p>
+<p><img decoding="async" loading="lazy" alt="c511f4e90b29faa29b6acd8e17d1174d" src="https://coco.acgod.cn/assets/images/c511f4e90b29faa29b6acd8e17d1174d-afad4a301d70a3f9b4d669f10a0462e5.jpg" width="1279" height="1706" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="6defe91e0985a364c3ecdababc4f4943" src="https://coco.acgod.cn/assets/images/6defe91e0985a364c3ecdababc4f4943-91a4c43196a9f8cb66be5e42d2dd7936.jpg" width="1279" height="1706" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="21f7348b2e4c72030fcbbcb39a5effe0" src="https://coco.acgod.cn/assets/images/21f7348b2e4c72030fcbbcb39a5effe0-df0143936a719ab82f5286beeaa38e8d.jpg" width="1279" height="1706" class="img_ev3q"></p>]]></content>
         <author>
             <name>Xinyuu</name>
             <uri>https://space.bilibili.com/142202292</uri>
