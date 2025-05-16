@@ -10,20 +10,21 @@
         <language>zh-Hans</language>
         <item>
             <title><![CDATA[自制五单元U段八木宇田天线]]></title>
-            <link>https://coco.acgod.cn/blog/UFH-yagi</link>
-            <guid>https://coco.acgod.cn/blog/UFH-yagi</guid>
+            <link>https://coco.acgod.cn/blog/yagiuda-ant</link>
+            <guid>https://coco.acgod.cn/blog/yagiuda-ant</guid>
             <pubDate>Thu, 15 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[参考资料]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="参考资料">参考资料<a href="https://coco.acgod.cn/blog/UFH-yagi#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" class="hash-link" aria-label="参考资料的直接链接" title="参考资料的直接链接">​</a></h2>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="参考资料">参考资料<a href="https://coco.acgod.cn/blog/yagiuda-ant#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" class="hash-link" aria-label="参考资料的直接链接" title="参考资料的直接链接">​</a></h2>
 <p>以<code>BG8AMG</code>制图的五单元U段八木为基板设计</p>
 <p><img decoding="async" loading="lazy" alt="微信图片_2025-05-15_091626_652" src="https://coco.acgod.cn/assets/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-05-15_091626_652-63b98871eb967936d7fbd31db263c0fe.jpg" width="2400" height="1080" class="img_ev3q"></p>
 <table><thead><tr><th>振子</th><th>长度</th><th>振子间隔</th></tr></thead><tbody><tr><td>一号引向振子</td><td>282mm</td><td>NONE</td></tr><tr><td>二号引向振子</td><td>298mm</td><td>172mm</td></tr><tr><td>三号引向振子</td><td>298mm</td><td>172mm</td></tr><tr><td>有源振子</td><td>322mm</td><td>99mm</td></tr><tr><td>反射振子</td><td>335mm</td><td>146mm</td></tr></tbody></table>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="微操日志">微操日志<a href="https://coco.acgod.cn/blog/UFH-yagi#%E5%BE%AE%E6%93%8D%E6%97%A5%E5%BF%97" class="hash-link" aria-label="微操日志的直接链接" title="微操日志的直接链接">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="微操日志">微操日志<a href="https://coco.acgod.cn/blog/yagiuda-ant#%E5%BE%AE%E6%93%8D%E6%97%A5%E5%BF%97" class="hash-link" aria-label="微操日志的直接链接" title="微操日志的直接链接">​</a></h2>
 <p>适用频段：410MHz-460MHz（430MHz-440MHz）</p>
 <p>天线驻波：1.2</p>
 <p>工作电压：≈10瓦</p>
 <p>线材阻抗：50Ω</p>
-<p>线材材质：1mm铝线</p>
+<p>线材材质[legacy]：1mm铝线</p>
+<p>线材材质：SYV50-3</p>
 <p>振子材质：Φ3×0.15mm不锈钢</p>
 <p>有源振子材质：Φ3×0.15mm不锈钢</p>
 <p>馈电点连接方式：压接</p>
@@ -31,16 +32,16 @@
 <p>主梁与振子连接方式：卡扣</p>
 <p><img decoding="async" loading="lazy" alt="微信图片_2025-05-15_090457_472" src="https://coco.acgod.cn/assets/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-05-15_090457_472-9061c25ece5fc464a3b7a1f5a9efb96e.jpg" width="1080" height="1920" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" alt="微信图片_2025-05-15_090516_020" src="https://coco.acgod.cn/assets/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-05-15_090516_020-e9b6ad495cb5c594107bb4fe85845450.jpg" width="2464" height="3280" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025513更新">2025.5.13更新：<a href="https://coco.acgod.cn/blog/UFH-yagi#2025513%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.13更新：的直接链接" title="2025.5.13更新：的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025513更新">2025.5.13更新：<a href="https://coco.acgod.cn/blog/yagiuda-ant#2025513%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.13更新：的直接链接" title="2025.5.13更新：的直接链接">​</a></h3>
 <p>1、更换主梁，使其便于携带</p>
 <p>2、增大馈电点面积</p>
 <p><img decoding="async" loading="lazy" alt="21f18b31fcc7227c2c56f029e967cee2" src="https://coco.acgod.cn/assets/images/21f18b31fcc7227c2c56f029e967cee2-70c928a93fadc9bde6cbe179154278c3.jpg" width="1279" height="1706" class="img_ev3q"><img decoding="async" loading="lazy" alt="0d15975b2f17fa2567b54e8675c65034" src="https://coco.acgod.cn/assets/images/0d15975b2f17fa2567b54e8675c65034-e00c406258b88f6b67a63e960c4a1b5c.jpg" width="1279" height="1706" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025514日更新">2025.5.14日更新：<a href="https://coco.acgod.cn/blog/UFH-yagi#2025514%E6%97%A5%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.14日更新：的直接链接" title="2025.5.14日更新：的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025514日更新">2025.5.14日更新：<a href="https://coco.acgod.cn/blog/yagiuda-ant#2025514%E6%97%A5%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.14日更新：的直接链接" title="2025.5.14日更新：的直接链接">​</a></h3>
 <p>1、加固有源振子</p>
 <p>2、调整指向振子的倾斜角度</p>
 <p><img decoding="async" loading="lazy" alt="558780b77e76f50e81aee652d83f12d4" src="https://coco.acgod.cn/assets/images/558780b77e76f50e81aee652d83f12d4-b2ca217cb7a99de8a4623a22b7115a01.jpg" width="1279" height="1706" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" alt="5edab7735e0e7948d39b50b3b46eb0c9" src="https://coco.acgod.cn/assets/images/5edab7735e0e7948d39b50b3b46eb0c9-b94551ad879fc049655d4ff752362e49.jpg" width="1279" height="1706" class="img_ev3q"></p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025515日更新">2025.5.15日更新：<a href="https://coco.acgod.cn/blog/UFH-yagi#2025515%E6%97%A5%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.15日更新：的直接链接" title="2025.5.15日更新：的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2025515日更新">2025.5.15日更新：<a href="https://coco.acgod.cn/blog/yagiuda-ant#2025515%E6%97%A5%E6%9B%B4%E6%96%B0" class="hash-link" aria-label="2025.5.15日更新：的直接链接" title="2025.5.15日更新：的直接链接">​</a></h3>
 <p>1、更改振子连接方式为卡扣连接，使其便于拆卸安装。</p>
 <p>2、更换馈线材料：50-3。</p>
 <p>3、加入U形线缆匹配阻抗。</p>
@@ -114,7 +115,7 @@
 <h6 class="anchor anchorWithStickyNavbar_LWe7" id="筒隐月子">筒隐月子<a href="https://coco.acgod.cn/blog/shouban#%E7%AD%92%E9%9A%90%E6%9C%88%E5%AD%90" class="hash-link" aria-label="筒隐月子的直接链接" title="筒隐月子的直接链接">​</a></h6>
 <p><img decoding="async" loading="lazy" src="https://coco.acgod.cn/assets/images/DSC_0030-a7a481ba457fea1a0245abc174e82ecf.JPG" width="6000" height="4000" class="img_ev3q"></p>
 <hr>
-<h5 class="anchor anchorWithStickyNavbar_LWe7" id="路人女主的养成方法">路人女主的养成方法<a href="https://coco.acgod.cn/blog/shouban#%E8%B7%AF%E4%BA%BA%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%85%BB%E6%88%90%E6%96%B9%E6%B3%95" class="hash-link" aria-label="路人女��主的养成方法的直接链接" title="路人女主的养成方法的直接链接">​</a></h5>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="路人女主的养成方法">路人女主的养成方法<a href="https://coco.acgod.cn/blog/shouban#%E8%B7%AF%E4%BA%BA%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%85%BB%E6%88%90%E6%96%B9%E6%B3%95" class="hash-link" aria-label="路人��女主的养成方法的直接链接" title="路人女主的养成方法的直接链接">​</a></h5>
 <h6 class="anchor anchorWithStickyNavbar_LWe7" id="加藤惠">加藤惠<a href="https://coco.acgod.cn/blog/shouban#%E5%8A%A0%E8%97%A4%E6%83%A0" class="hash-link" aria-label="加藤惠的直接链接" title="加藤惠的直接链接">​</a></h6>
 <p><img decoding="async" loading="lazy" src="https://coco.acgod.cn/assets/images/DSC_0027-1a78d177d23da6204ab591d217f8b47f.jpg" width="6000" height="4000" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://coco.acgod.cn/assets/images/DSC_0092-e834f907614d6a8fa0e9dbce9c1cddfd.jpg" width="6000" height="4000" class="img_ev3q"></p>
@@ -255,7 +256,7 @@
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="缓冲泡沫">缓冲泡沫<a href="https://coco.acgod.cn/blog/cloud-roundtable-2024s1#%E7%BC%93%E5%86%B2%E6%B3%A1%E6%B2%AB" class="hash-link" aria-label="缓冲泡沫的直接链接" title="缓冲泡沫的直接链接">​</a></h3>
 <p><img decoding="async" loading="lazy" src="https://static-g.acgod.cn/static/cocomoe/20240308/F441BAC670C5DD4A71098816DB228B9E.webp" alt="木之本樱 AlwaysTogetherPinkyPromise" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://static-g.acgod.cn/static/cocomoe/20240308/A06B69DE85868452EE38DC27929992F3.webp" alt="木之本樱 AlwaysTogetherPinkyPromise" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" src="https://static-g.acgod.cn/static/cocomoe/20240308/AF3D1E28590562D1E4900FA8F4D347A6.webp" alt="木之��本樱 AlwaysTogetherPinkyPromise" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://static-g.acgod.cn/static/cocomoe/20240308/AF3D1E28590562D1E4900FA8F4D347A6.webp" alt="木��之本樱 AlwaysTogetherPinkyPromise" class="img_ev3q"></p>
 <p><img decoding="async" loading="lazy" src="https://static-g.acgod.cn/static/cocomoe/20240308/543390C3A362F55F32113B197C858518.webp" alt="木之本樱 AlwaysTogetherPinkyPromise" class="img_ev3q"></p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="外衬">外衬<a href="https://coco.acgod.cn/blog/cloud-roundtable-2024s1#%E5%A4%96%E8%A1%AC" class="hash-link" aria-label="外衬的直接链接" title="外衬的直接链接">​</a></h3>
 <p><img decoding="async" loading="lazy" src="https://static-g.acgod.cn/static/cocomoe/20240308/818C3D5471D3C9B2875E823F3458DE52.webp" alt="木之本樱 AlwaysTogetherPinkyPromise" class="img_ev3q"></p>
