@@ -17,7 +17,7 @@
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="参考资料">参考资料<a href="https://coco.acgod.cn/blog/UFH-yagi#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99" class="hash-link" aria-label="参考资料的直接链接" title="参考资料的直接链接">​</a></h2>
 <p>以<code>BG8AMG</code>制图的五单元U段八木为基板设计</p>
 <p><img decoding="async" loading="lazy" alt="微信图片_2025-05-15_091626_652" src="https://coco.acgod.cn/assets/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2025-05-15_091626_652-63b98871eb967936d7fbd31db263c0fe.jpg" width="2400" height="1080" class="img_ev3q"></p>
-<table><thead><tr><th>振子</th><th>长度</th><th>振子间隔</th></tr></thead><tbody><tr><td>一号引向振子</td><td>282mm</td><td>NONE</td></tr><tr><td>二号引向振子</td><td>298mm</td><td>172mm</td></tr><tr><td>三号引向振子</td><td>298mm</td><td>1712mm</td></tr><tr><td>有源振子</td><td>322mm</td><td>99mm</td></tr><tr><td>反射振子</td><td>335mm</td><td>146mm</td></tr></tbody></table>
+<table><thead><tr><th>振子</th><th>长度</th><th>振子间隔</th></tr></thead><tbody><tr><td>一号引向振子</td><td>282mm</td><td>NONE</td></tr><tr><td>二号引向振子</td><td>298mm</td><td>172mm</td></tr><tr><td>三号引向振子</td><td>298mm</td><td>172mm</td></tr><tr><td>有源振子</td><td>322mm</td><td>99mm</td></tr><tr><td>反射振子</td><td>335mm</td><td>146mm</td></tr></tbody></table>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="微操日志">微操日志<a href="https://coco.acgod.cn/blog/UFH-yagi#%E5%BE%AE%E6%93%8D%E6%97%A5%E5%BF%97" class="hash-link" aria-label="微操日志的直接链接" title="微操日志的直接链接">​</a></h2>
 <p>适用频段：410MHz-460MHz（430MHz-440MHz）</p>
 <p>天线驻波：1.2</p>
