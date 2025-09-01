@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '可可萌',
+  title: '曦语',
   tagline:'万物皆「可萌」(⑅˃◡˂⑅)',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://coco.acgod.cn',
+  url: 'https://www.auroral.com.cn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -66,9 +66,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '可可萌',
+        title: '曦语',
         logo: {
-          alt: 'Moe！',
+          alt: 'Auroral',
           src: 'img/logo.svg',
         },
         items: [
@@ -133,7 +133,7 @@ const config = {
               },
               {
                 label: '上帝模式',
-                href: 'https://www.cocomoe.cn/god/',
+                href: 'https://www.auroral.cn/god/',
               },
               {
                 label: '一杯奶茶',
@@ -244,7 +244,7 @@ const config = {
             
           },
         ],
-        copyright: `© ${new Date().getFullYear()} 曦语 | 识时务 知进退 善其身 | 编译日期：20241024.gh-pages`,
+        copyright: `©2023-${new Date().getFullYear()} Auroral 星辰曦语 | 无限进步。 | 20250901.gh-pages`,
       },
       prism: {
         theme: prismThemes.github,
