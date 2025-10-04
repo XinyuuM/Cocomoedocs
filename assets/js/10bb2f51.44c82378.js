@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcocomoe=self.webpackChunkcocomoe||[]).push([[7502],{7828:e=>{e.exports=JSON.parse('{"tag":{"label":"Expo","permalink":"/blog/tags/expo","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/expo","page":1,"postsPerPage":4,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
