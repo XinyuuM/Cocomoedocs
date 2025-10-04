@@ -2,23 +2,15 @@ import Tabs from '@theme/Tabs';
 
 import TabItem from '@theme/TabItem';
 
-:::tip
-
-原域名 **coco**moe.cn 将于2026年1月1日替换为 **coco**.acgod.cn。
-
-2026年1月1日之后将关闭域名的301跳转功能，请悉知。
-
-:::
-
 <div style={{textAlign: 'center'}}>
 ![](/img/link-index.webp)
 
 
-感谢您来到[cocomoe.cn](http://cocomoe.cn/)，请多指教！
+感谢您来到auroral.com.cn，请多指教！
 
-【冰唐可可Tongcoco】是我的网名，所以我把自己的博客起名为可可萌（Cocomoe）。
+Aurora为古罗马神话中的黎明女神，在这里拥有晨曦之意、代表晨曦之语（Auroral）。
 
-在这里，让我们分享知识、分享生活、分享快乐，共同成长！
+让我们分享知识、分享生活、分享快乐，共同成长！
 
 <div style={{textAlign: 'left'}}>
 :::note 与我取得联系，即代表您知晓并同意《[针对好友信息处理方式的说明](/blackboard/xinyuu/about-privacy/)》
